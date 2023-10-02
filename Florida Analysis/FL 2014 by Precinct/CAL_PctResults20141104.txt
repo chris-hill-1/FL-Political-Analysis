@@ -1,0 +1,501 @@
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	379
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	160
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	359
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	138
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	24
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	18
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	375
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	143
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	404
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	123
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	392
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	128
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	23
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	262
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	222
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	248
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	241
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	54
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	247
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	239
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	57
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	251
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	233
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	58
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	257
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	229
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	57
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	278
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	238
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	27
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	286
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	245
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	191
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	307
+CAL	Calhoun	10218	11/04/2014	2014 General Election	101	101,202,401,501 Neal Civic Center	1126	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	45
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	249
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	111
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	241
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	99
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	244
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	103
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	257
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	99
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	246
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	102
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	156
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	173
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	145
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	187
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	37
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	136
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	189
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	44
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	146
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	180
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	43
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	136
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	191
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	42
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	176
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	168
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	25
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	179
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	179
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	135
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	205
+CAL	Calhoun	10218	11/04/2014	2014 General Election	102	102 Westside VFD	788	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	383
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	163
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	3
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	16
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	360
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	142
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	24
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	22
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	408
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	120
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	15
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	22
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	422
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	118
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	400
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	133
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	31
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	County Commissioner	 District 2	380020	Willie D. Wise	DEM	102533817	62295	67
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	County Commissioner	 District 2	380020	James Earl Hunt	NPA	102533411	61840	131
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	County Commissioner	 District 2	380020	James Darrell McDougald	NPA	102534390	61843	162
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	County Commissioner	 District 2	380020	Clifford T. Edenfield	NPA	102529904	61842	200
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	246
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	268
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	51
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	235
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	278
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	52
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	243
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	269
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	53
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	242
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	270
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	53
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	251
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	263
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	267
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	271
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	27
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	303
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	242
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	20
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	229
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	288
+CAL	Calhoun	10218	11/04/2014	2014 General Election	201	201 Altha Comm Center	1027	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	48
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	391
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	181
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	383
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	157
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	21
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	395
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	155
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	16
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	15
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	411
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	153
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	412
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	144
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	25
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	County Commissioner	 District 2	380020	Willie D. Wise	DEM	102533817	62295	133
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	County Commissioner	 District 2	380020	James Earl Hunt	NPA	102533411	61840	96
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	County Commissioner	 District 2	380020	James Darrell McDougald	NPA	102534390	61843	227
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	County Commissioner	 District 2	380020	Clifford T. Edenfield	NPA	102529904	61842	123
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	241
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	282
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	58
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	224
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	294
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	63
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	228
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	290
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	63
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	226
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	291
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	229
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	288
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	64
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	240
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	321
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	20
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	266
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	305
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	10
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	210
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	334
+CAL	Calhoun	10218	11/04/2014	2014 General Election	202	101,202,401,501 Neal Civic Center	1025	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	37
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	471
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	152
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	469
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	108
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	22
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	467
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	115
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	41
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	500
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	118
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	499
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	108
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	35
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	296
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	271
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	76
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	291
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	277
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	75
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	290
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	278
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	75
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	289
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	277
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	297
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	270
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	76
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	304
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	310
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	348
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	281
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	239
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	352
+CAL	Calhoun	10218	11/04/2014	2014 General Election	301	301 Shelton Park Lib	1374	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	52
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	239
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	80
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	223
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	67
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	18
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	244
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	66
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	255
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	59
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	256
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	53
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	119
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	172
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	36
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	117
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	175
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	35
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	118
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	172
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	37
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	120
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	169
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	38
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	121
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	168
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	116
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	196
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	15
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	140
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	175
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	98
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	200
+CAL	Calhoun	10218	11/04/2014	2014 General Election	302	302,502 Carr-Clark VFD	617	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	95
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	321
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	99
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	299
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	101
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	304
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	117
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	286
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	112
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	291
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	County Commissioner	 District 4	380040	Dennis L. Jones	DEM	102536781	61852	259
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	County Commissioner	 District 4	380040	Carrie Baker	NPA	102539058	62302	155
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	223
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	162
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	36
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	224
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	157
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	40
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	217
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	164
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	40
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	231
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	149
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	40
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	203
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	176
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	42
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	252
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	142
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	27
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	262
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	141
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	18
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	171
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	212
+CAL	Calhoun	10218	11/04/2014	2014 General Election	401	101,202,401,501 Neal Civic Center	792	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	38
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	31
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	31
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	31
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	35
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	33
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	County Commissioner	 District 4	380040	Dennis L. Jones	DEM	102536781	61852	28
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	County Commissioner	 District 4	380040	Carrie Baker	NPA	102539058	62302	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	23
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	6
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	23
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	8
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	10
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	23
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	24
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	10
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	23
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	15
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	25
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	19
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	21
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	22
+CAL	Calhoun	10218	11/04/2014	2014 General Election	402	402,503 Kinard Library	75	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	6
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	299
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	128
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	274
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	126
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	15
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	313
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	94
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	331
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	86
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	328
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	87
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	206
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	178
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	46
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	197
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	190
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	43
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	205
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	184
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	41
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	207
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	178
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	45
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	204
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	184
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	42
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	224
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	191
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	15
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	210
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	211
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	9
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	176
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	227
+CAL	Calhoun	10218	11/04/2014	2014 General Election	501	101,202,401,501 Neal Civic Center	858	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	27
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	63
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	25
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	67
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	13
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	68
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	3
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	71
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	71
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	14
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	30
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	52
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	31
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	51
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	53
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	53
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	53
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	42
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	42
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	51
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	37
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	26
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	58
+CAL	Calhoun	10218	11/04/2014	2014 General Election	502	302,502 Carr-Clark VFD	194	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	171
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	67
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	170
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	51
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	10
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	169
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	55
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	174
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	60
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	10
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	180
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	51
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	113
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	103
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	28
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	110
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	105
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	29
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	103
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	109
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	32
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	105
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	106
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	33
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	116
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	98
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	30
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	116
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	116
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	12
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	111
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	125
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	8
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	82
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	137
+CAL	Calhoun	10218	11/04/2014	2014 General Election	503	402,503 Kinard Library	473	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	25

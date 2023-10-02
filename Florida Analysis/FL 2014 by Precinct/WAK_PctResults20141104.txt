@@ -1,0 +1,620 @@
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	779
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	751
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	9
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	21
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	764
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	690
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	68
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	18
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	15
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	861
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	594
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	65
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	40
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	921
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	549
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	90
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	949
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	534
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	4
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	73
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	762
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	720
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	78
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	639
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	691
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	154
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	914
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	460
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	185
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	906
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	472
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	182
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	877
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	483
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	199
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	876
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	487
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	196
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	908
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	461
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	190
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	896
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	613
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	51
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1090
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	456
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	620
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	822
+WAK	Wakulla	10218	11/04/2014	2014 General Election	01	01 Wakulla	2567	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	118
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	1538
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	1198
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	10
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	20
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1518
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	1111
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	94
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	16
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1654
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	923
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	115
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	74
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1733
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	874
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	159
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1768
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	866
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	132
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	1522
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	1127
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	117
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	1183
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	1125
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	354
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	1651
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	801
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	314
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	1625
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	817
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	324
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	1613
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	814
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	339
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	1609
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	829
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	328
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1639
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	807
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	320
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	1493
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	1201
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	72
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1684
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	1040
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	42
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	1226
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	1363
+WAK	Wakulla	10218	11/04/2014	2014 General Election	02	02 Crawfordville	4673	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	177
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	453
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	359
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	10
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	440
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	343
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	17
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	473
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	298
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	29
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	23
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	480
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	285
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	58
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	508
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	271
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	43
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	467
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	320
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	36
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	403
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	309
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	83
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	436
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	272
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	115
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	452
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	258
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	113
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	436
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	267
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	120
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	434
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	272
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	117
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	451
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	260
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	112
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	386
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	410
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	27
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	482
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	327
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	304
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	451
+WAK	Wakulla	10218	11/04/2014	2014 General Election	03	03 Sopchoppy	1191	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	68
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	86
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	27
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	85
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	89
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	17
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	9
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	91
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	97
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	15
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	81
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	32
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	62
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	41
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	44
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	58
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	47
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	55
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	42
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	59
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	14
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	48
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	54
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	47
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	55
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	53
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	58
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	4
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	55
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	58
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	54
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	55
+WAK	Wakulla	10218	11/04/2014	2014 General Election	04	04 Smith Creek	157	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	156
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	105
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	162
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	86
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	180
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	72
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	7
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	176
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	70
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	181
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	66
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	145
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	107
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	139
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	96
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	18
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	148
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	77
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	147
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	77
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	41
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	137
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	82
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	46
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	138
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	83
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	44
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	148
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	75
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	42
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	146
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	106
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	192
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	71
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	105
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	139
+WAK	Wakulla	10218	11/04/2014	2014 General Election	05	05 St Marks	366	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	21
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	570
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	326
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	10
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	554
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	294
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	33
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	596
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	252
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	37
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	23
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	603
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	253
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	52
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	637
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	228
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	43
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	543
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	334
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	31
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	469
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	326
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	79
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	476
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	315
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	117
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	476
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	317
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	114
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	471
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	314
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	123
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	458
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	325
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	125
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	475
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	315
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	118
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	427
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	444
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	37
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	537
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	358
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	355
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	474
+WAK	Wakulla	10218	11/04/2014	2014 General Election	06	06 Medart	1430	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	79
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	1090
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	684
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	21
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1073
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	628
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	62
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	16
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	12
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1177
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	514
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	70
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	37
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1228
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	486
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	83
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1262
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	462
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	72
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	1005
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	729
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	64
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	812
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	723
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	204
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	1030
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	592
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	175
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	1027
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	607
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	164
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	1001
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	612
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	185
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	999
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	622
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	176
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	1032
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	598
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	168
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	919
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	836
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	42
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	1073
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	705
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	20
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	787
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	906
+WAK	Wakulla	10218	11/04/2014	2014 General Election	07	07 Ivan	2824	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	105
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	303
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	290
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	310
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	263
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	18
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	329
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	241
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	349
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	215
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	36
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	357
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	215
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	27
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	285
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	295
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	20
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	258
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	271
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	51
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	332
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	175
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	93
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	334
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	175
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	91
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	317
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	185
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	98
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	315
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	189
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	96
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	323
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	185
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	92
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	330
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	257
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	13
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	404
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	193
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	215
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	347
+WAK	Wakulla	10218	11/04/2014	2014 General Election	08	08 Shell Point	900	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	38
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	206
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	112
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	220
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	88
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	212
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	85
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	15
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	208
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	90
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	28
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	216
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	84
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	185
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	126
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	15
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	155
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	127
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	36
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	166
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	126
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	34
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	158
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	131
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	37
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	157
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	134
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	35
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	154
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	133
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	39
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	156
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	134
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	36
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	166
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	144
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	16
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	214
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	107
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	5
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	126
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	177
+WAK	Wakulla	10218	11/04/2014	2014 General Election	09	09 Panacea	556	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	23
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	199
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	122
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	196
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	109
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	212
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	100
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	7
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	221
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	85
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	229
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	77
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	19
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	184
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	130
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	144
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	138
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	30
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	183
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	84
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	58
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	185
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	82
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	58
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	178
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	85
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	62
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	178
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	87
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	181
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	84
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	60
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	162
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	149
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	14
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	205
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	116
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	4
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	125
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	173
+WAK	Wakulla	10218	11/04/2014	2014 General Election	10	10 Ochlockonee Bay	486	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	27
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	495
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	479
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	15
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	490
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	438
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	47
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	553
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	376
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	44
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	18
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	586
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	362
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	43
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	598
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	362
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	30
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	479
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	464
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	48
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	388
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	433
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	133
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	608
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	287
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	96
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	602
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	295
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	94
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	589
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	302
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	100
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	583
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	309
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	99
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	600
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	298
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	93
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	613
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	354
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	24
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	676
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	304
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	11
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	449
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	487
+WAK	Wakulla	10218	11/04/2014	2014 General Election	11	11 Bethel	1523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	55
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	645
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	534
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	6
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	15
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	632
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	491
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	61
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	5
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	720
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	403
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	57
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	737
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	413
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	50
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	760
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	404
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	36
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	County Commissioner	 District 2	380020	Randy Merritt	REP	108821181	61695	608
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	County Commissioner	 District 2	380020	Taylor Phillips	NPA	108833182	62150	544
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	48
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	County Commissioner	 District 4	380040	Jerry Moore	REP	108832347	61697	542
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	County Commissioner	 District 4	380040	Bill Anderson	NPA	108831733	61701	478
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	County Commissioner	 District 4	380040	Steven D Cushman	NPA	121456309	61700	141
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	713
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	359
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	127
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	713
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	359
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	128
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	693
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	373
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	134
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	696
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	375
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	129
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	714
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	359
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	127
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	686
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	486
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	28
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	822
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	364
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	544
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	578
+WAK	Wakulla	10218	11/04/2014	2014 General Election	12	12 Shadeville	2144	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	78

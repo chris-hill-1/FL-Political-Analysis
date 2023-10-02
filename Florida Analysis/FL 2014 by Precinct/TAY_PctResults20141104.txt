@@ -1,0 +1,632 @@
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	297
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	232
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	287
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	219
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	24
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	320
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	188
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	310
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	201
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	27
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	316
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	186
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	33
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	County Commissioner	 District 4	380040	David J Woods	REP	105220234	63609	191
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	County Commissioner	 District 4	380040	Pam Feagle	DEM	108375640	63607	339
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	304
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	175
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	316
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	170
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	52
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	309
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	173
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	56
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	304
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	175
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	59
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	311
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	171
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	56
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	311
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	209
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	288
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	238
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	232
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	272
+TAY	Taylor	10218	11/04/2014	2014 General Election	001	1-1stMth	895	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	34
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	386
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	176
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	379
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	155
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	424
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	120
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	397
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	152
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	22
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	402
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	142
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	25
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	277
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	252
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	42
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	285
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	247
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	39
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	285
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	244
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	42
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	283
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	245
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	43
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	301
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	227
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	43
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	271
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	289
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	11
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	323
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	245
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	227
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	325
+TAY	Taylor	10218	11/04/2014	2014 General Election	002	2 TTI	1098	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	19
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	350
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	135
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	338
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	114
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	26
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	369
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	92
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	20
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	363
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	111
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	365
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	109
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	244
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	207
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	40
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	247
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	204
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	40
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	237
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	214
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	40
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	244
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	208
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	39
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	245
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	205
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	41
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	270
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	212
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	294
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	195
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	223
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	255
+TAY	Taylor	10218	11/04/2014	2014 General Election	003	3 Blue Creek	848	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	13
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	64
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	19
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	62
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	14
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	64
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	15
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	57
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	22
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	65
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	15
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	34
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	47
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	32
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	45
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	48
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	6
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	49
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	31
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	47
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	6
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	28
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	56
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	35
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	49
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	24
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	58
+TAY	Taylor	10218	11/04/2014	2014 General Election	004	4 Salem	154	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	378
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	135
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	11
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	392
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	106
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	397
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	101
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	393
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	115
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	396
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	107
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	21
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	268
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	186
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	71
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	262
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	189
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	73
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	272
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	180
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	73
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	268
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	180
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	76
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	262
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	186
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	77
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	305
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	201
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	19
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	280
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	238
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	250
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	241
+TAY	Taylor	10218	11/04/2014	2014 General Election	005	5 Stein Comm Ctr	850	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	34
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	209
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	109
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	216
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	90
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	11
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	222
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	81
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	214
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	90
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	215
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	84
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	25
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	County Commissioner	 District 4	380040	David J Woods	REP	105220234	63609	81
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	County Commissioner	 District 4	380040	Pam Feagle	DEM	108375640	63607	241
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	147
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	129
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	53
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	160
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	126
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	43
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	145
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	134
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	50
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	150
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	132
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	47
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	152
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	128
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	49
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	158
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	155
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	16
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	180
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	141
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	117
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	184
+TAY	Taylor	10218	11/04/2014	2014 General Election	006	6 Shady Grove	498	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	28
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	584
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	194
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	569
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	174
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	23
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	608
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	139
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	21
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	588
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	166
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	31
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	589
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	160
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	35
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	County Commissioner	 District 4	380040	David J Woods	REP	105220234	63609	287
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	County Commissioner	 District 4	380040	Pam Feagle	DEM	108375640	63607	487
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	11
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	365
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	339
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	81
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	385
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	327
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	73
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	366
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	340
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	79
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	355
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	348
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	82
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	380
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	326
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	79
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	368
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	395
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	22
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	365
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	407
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	13
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	299
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	437
+TAY	Taylor	10218	11/04/2014	2014 General Election	007	7 Johnson Strip	1384	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	49
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	334
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	186
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	326
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	168
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	20
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	6
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	364
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	132
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	336
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	151
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	34
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	345
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	142
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	35
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	269
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	172
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	81
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	293
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	155
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	74
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	275
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	171
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	76
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	275
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	168
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	78
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	293
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	155
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	74
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	291
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	212
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	19
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	254
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	256
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	211
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	272
+TAY	Taylor	10218	11/04/2014	2014 General Election	008	8 Pace Union Bdg	946	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	39
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	270
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	111
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	264
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	89
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	281
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	78
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	278
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	88
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	280
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	77
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	25
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	184
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	172
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	28
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	189
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	167
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	28
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	182
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	172
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	182
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	172
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	187
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	167
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	177
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	198
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	203
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	178
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	151
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	216
+TAY	Taylor	10218	11/04/2014	2014 General Election	009	9 Forest Cap	684	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	274
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	77
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	263
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	84
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	264
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	73
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	11
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	266
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	75
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	274
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	64
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	184
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	141
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	195
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	132
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	28
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	194
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	130
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	31
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	190
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	135
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	30
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	185
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	141
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	29
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	179
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	167
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	176
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	171
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	141
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	195
+TAY	Taylor	10218	11/04/2014	2014 General Election	010	TS 10 Lakeside Bapt	677	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	19
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	298
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	81
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	307
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	59
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	308
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	57
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	290
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	73
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	298
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	69
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	14
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	177
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	166
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	38
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	177
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	167
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	37
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	178
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	166
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	37
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	175
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	171
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	35
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	179
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	167
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	35
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	157
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	216
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	8
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	193
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	184
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	153
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	205
+TAY	Taylor	10218	11/04/2014	2014 General Election	011	11 Kelly Grade	702	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	23
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	245
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	254
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	239
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	232
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	20
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	273
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	213
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	258
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	230
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	253
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	225
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	27
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	276
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	188
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	41
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	292
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	171
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	42
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	265
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	202
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	38
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	266
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	198
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	40
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	277
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	189
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	39
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	313
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	182
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	307
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	189
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	227
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	255
+TAY	Taylor	10218	11/04/2014	2014 General Election	012	12 Shrine	963	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	23
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	82
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	503
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	83
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	488
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	111
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	462
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	86
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	493
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	91
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	479
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	21
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	357
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	185
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	49
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	373
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	169
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	49
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	347
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	191
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	53
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	333
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	206
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	52
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	365
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	175
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	412
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	151
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	28
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	440
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	142
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	9
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	307
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	241
+TAY	Taylor	10218	11/04/2014	2014 General Election	013	13 Jerkn	1133	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	43
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	562
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	139
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	541
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	123
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	25
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	567
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	106
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	18
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	560
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	114
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	29
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	556
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	115
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	32
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	347
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	294
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	62
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	358
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	280
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	65
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	349
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	289
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	65
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	346
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	293
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	64
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	363
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	280
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	60
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	320
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	366
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	17
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	334
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	359
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	10
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	264
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	401
+TAY	Taylor	10218	11/04/2014	2014 General Election	014	14 Hwy Patrol	1277	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	38

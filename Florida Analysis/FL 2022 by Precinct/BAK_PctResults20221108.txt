@@ -1,0 +1,819 @@
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1047
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1679
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1761
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	127
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	384
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1443
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	634
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	2228
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	128
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	322
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	270
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	217
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	9
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	23
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	96
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	42
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	159
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	43
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	9
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	6
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	12
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	3
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	4
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	7
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	9
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	7
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	8
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	2
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	4
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	10
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	1040
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	1664
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	1766
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	129
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	384
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	1430
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	625
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	2213
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	128
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	322
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	262
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	202
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	7
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	24
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	86
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	42
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	164
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	43
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	18
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	15
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	18
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	6
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	7
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	5
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	11
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	1
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	21
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	31
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	18
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	26
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	11
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	16
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1086
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1701
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1795
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	130
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	390
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1460
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	650
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	2252
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	130
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	300
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	256
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	205
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	7
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	22
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	83
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	32
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	145
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	42
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	7
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	5
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	3
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	6
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	7
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	4
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1078
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1679
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1787
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	130
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	390
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1448
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	639
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	2237
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	135
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	309
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	261
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	192
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	5
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	21
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	80
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	32
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	144
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	37
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	32
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	25
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	3
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	21
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	23
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1027
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1630
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1731
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	125
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	382
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1400
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	621
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	2172
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	131
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	320
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	263
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	211
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	8
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	23
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	89
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	38
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	164
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	39
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	54
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	79
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	62
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	4
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	9
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	60
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	24
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	68
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1036
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1645
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1751
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	127
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	384
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1422
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	629
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	2208
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	126
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	326
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	273
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	213
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	8
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	23
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	90
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	34
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	154
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	41
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	39
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	54
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	40
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	7
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	37
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	42
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	719
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	1135
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	1161
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	78
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	261
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	894
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	369
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	1327
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	99
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	512
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	582
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	623
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	42
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	101
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	454
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	224
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	776
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	48
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	170
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	255
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	220
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	16
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	52
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	201
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	90
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	298
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	25
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	800
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	1229
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	1255
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	91
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	288
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	978
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	395
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	1438
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	109
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	466
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	532
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	559
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	32
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	89
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	393
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	207
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	710
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	42
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	4
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	135
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	211
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	190
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	14
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	37
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	177
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	81
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	252
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	21
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	807
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1260
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1306
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	85
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	279
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1030
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	411
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1476
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	109
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	441
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	478
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	500
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	38
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	91
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	338
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	187
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	666
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	43
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	4
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	151
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	230
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	197
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	14
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	44
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	179
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	84
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	261
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	20
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	604
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	945
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	1025
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	62
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	212
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	690
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	293
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	1118
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	86
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	630
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	775
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	759
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	60
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	152
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	661
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	297
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	988
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	61
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	3
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	6
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	166
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	249
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	218
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	14
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	50
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	196
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	93
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	292
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	24
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	802
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1246
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1308
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	88
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	284
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1024
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	404
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1464
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	103
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	449
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	495
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	501
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	36
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	88
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	340
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	193
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	679
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	48
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	150
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	231
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	195
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	13
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	42
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	185
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	86
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	260
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	21
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	769
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1165
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1212
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	80
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	277
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	961
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	378
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1390
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	106
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	478
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	532
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	570
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	41
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	89
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	377
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	211
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	719
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	43
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	154
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	275
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	221
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	16
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	48
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	209
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	94
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	294
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	23
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	792
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1192
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1222
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	82
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	265
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	960
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	388
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1374
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	109
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	447
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	491
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	550
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	38
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	97
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	372
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	200
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	717
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	38
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	162
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	288
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	231
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	17
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	52
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	216
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	93
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	311
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	25
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	791
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	1219
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	1278
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	87
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	289
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	1012
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	413
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	1449
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	102
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	452
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	471
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	501
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	33
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	74
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	327
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	172
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	644
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	44
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	158
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	281
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	225
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	17
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	51
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	210
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	97
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	310
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	26
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	736
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	1136
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	1160
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	75
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	250
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	877
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	361
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	1310
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	101
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	504
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	556
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	614
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	43
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	115
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	449
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	227
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	774
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	47
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	3
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	161
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	280
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	230
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	19
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	49
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	223
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	95
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	317
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	24
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	770
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1169
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1210
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	81
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	280
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	983
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	389
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1392
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	110
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	473
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	523
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	565
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	41
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	83
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	356
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	198
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	709
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	39
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	158
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	279
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	229
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	15
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	210
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	96
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	301
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	23
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1044
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1566
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1644
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	112
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	348
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1252
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	562
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1968
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	131
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	210
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	194
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	190
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	12
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	25
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	106
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	42
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	155
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	24
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	147
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	212
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	169
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	13
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	41
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	191
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	79
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	280
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	17
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	739
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	1053
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	960
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	67
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	235
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	857
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	372
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	1250
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	School Board	 District 4	610004	Mandi Canaday	NOP	100600796	83312	94
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	615
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	832
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	964
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	65
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	160
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	614
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	277
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	1049
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	School Board	 District 4	610004	Michele Hodges	NOP	100598790	83316	67
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	47
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	87
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	80
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	5
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	19
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	78
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	34
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	105
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	11
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	691
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	993
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	1077
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	66
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	214
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	762
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	314
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	1230
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	88
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	593
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	808
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	776
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	60
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	170
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	629
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	310
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	956
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	70
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	4
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	117
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	171
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	151
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	11
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	30
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	154
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	58
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	217
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	14
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	662
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	1003
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	1021
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	59
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	216
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	760
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	317
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	1210
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	97
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	614
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	780
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	831
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	69
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	167
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	622
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	298
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	980
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	64
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	125
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	188
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	152
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	9
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	31
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	165
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	68
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	214
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	11
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	722
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	1140
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	1173
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	65
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	231
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	822
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	372
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	1266
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	92
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	587
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	723
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	729
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	65
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	163
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	632
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	262
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	999
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	69
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	2
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+BAK	Baker	26906	11/08/2022	2022 General Election	1A	Sanderson Community Center	2370	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	91
+BAK	Baker	26906	11/08/2022	2022 General Election	2A	Macclenny Baptist Gym	3523	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	109
+BAK	Baker	26906	11/08/2022	2022 General Election	3A	Center of the Agriculture	3472	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	101
+BAK	Baker	26906	11/08/2022	2022 General Election	4A	Baxter Fire Station	217	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	7
+BAK	Baker	26906	11/08/2022	2022 General Election	4B	Taylor Voting House	677	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	20
+BAK	Baker	26906	11/08/2022	2022 General Election	4C	Center of the Agriculture	2198	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	95
+BAK	Baker	26906	11/08/2022	2022 General Election	4D	Cuyler Church Hall	1121	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	49
+BAK	Baker	26906	11/08/2022	2022 General Election	5A	Glen Baptist Hall	3635	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	137
+BAK	Baker	26906	11/08/2022	2022 General Election	6A	Olustee Baptist Hall	299	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	11

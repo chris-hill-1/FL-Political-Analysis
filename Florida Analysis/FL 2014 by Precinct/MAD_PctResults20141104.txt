@@ -1,0 +1,668 @@
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	2
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	632
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	510
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	22
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	29
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	583
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	575
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	20
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	646
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	504
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	19
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	25
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	638
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	514
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	43
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	649
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	508
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	36
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	675
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	392
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	126
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	669
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	408
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	118
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	666
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	408
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	121
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	648
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	423
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	124
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	672
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	403
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	119
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	School Board	 District 1	610001	Terrence Lamont Boatman	NOP	103717914	63643	486
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	School Board	 District 1	610001	Susie Bishop Williamson	NOP	105268825	63628	673
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	2
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	34
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	774
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	384
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	36
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	603
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	582
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	540
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	590
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	1	Agriculture Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	64
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	36
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	182
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	1
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	30
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	186
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	1
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	38
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	181
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	38
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	181
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	35
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	182
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	1
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	149
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	59
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	11
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	155
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	54
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	146
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	63
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	140
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	67
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	12
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	146
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	62
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	11
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	165
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	48
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	161
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	55
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	123
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	88
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	2	Madison Recreation Center	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	8
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	799
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	204
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	25
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	14
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	727
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	252
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	40
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	6
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	776
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	219
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	30
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	17
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	781
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	229
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	32
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	817
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	199
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	494
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	447
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	101
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	486
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	452
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	104
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	482
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	458
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	102
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	492
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	448
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	102
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	514
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	426
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	102
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	600
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	419
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	23
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	481
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	543
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	18
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	497
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	502
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	3	Lee City Hall	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	42
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	155
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	82
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	162
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	72
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	1
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	158
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	71
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	157
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	73
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	158
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	72
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	123
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	95
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	25
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	124
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	94
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	25
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	127
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	90
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	26
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	125
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	88
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	30
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	118
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	95
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	30
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	116
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	109
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	18
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	121
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	112
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	116
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	107
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	4	Voting House, Sirmans	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	20
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	222
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	444
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	232
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	422
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	11
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	263
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	381
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	17
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	246
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	406
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	21
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	252
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	400
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	21
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	423
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	183
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	427
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	180
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	66
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	413
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	194
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	66
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	392
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	211
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	70
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	418
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	184
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	71
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	431
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	211
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	31
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	396
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	261
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	15
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	323
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	308
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	5	Senior Citizens Building	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	42
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	104
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	54
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	98
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	50
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	109
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	38
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	107
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	40
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	109
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	39
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	66
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	68
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	68
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	68
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	22
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	62
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	73
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	23
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	63
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	72
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	23
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	69
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	69
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	20
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	77
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	68
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	13
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	72
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	80
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	57
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	86
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	6	Hamburg Vol. Fire Station	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	15
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	96
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	44
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	347
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	171
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	7
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	401
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	242
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	18
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	8
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	446
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	209
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	443
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	214
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	452
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	204
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	368
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	228
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	80
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	370
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	225
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	81
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	357
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	240
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	80
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	363
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	232
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	366
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	225
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	86
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	397
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	258
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	22
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	330
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	333
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	287
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	361
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	7	Voting House, Crossroads	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	29
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	392
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	177
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	14
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	372
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	191
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	14
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	6
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	404
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	170
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	13
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	390
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	189
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	400
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	177
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	317
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	217
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	305
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	229
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	59
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	305
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	230
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	58
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	302
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	230
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	312
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	218
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	63
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	347
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	216
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	30
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	268
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	315
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	296
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	263
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	8	Pinetta Vol. Fire Dept	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	34
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	68
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	92
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	71
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	83
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	76
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	78
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	73
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	81
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	77
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	75
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	10
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	78
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	62
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	22
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	84
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	59
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	19
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	81
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	59
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	22
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	79
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	59
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	24
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	86
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	56
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	20
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	74
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	74
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	14
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	86
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	67
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	9
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	72
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	76
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	9	Recycling Center, Lamont	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	14
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	126
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	61
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	161
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	458
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	15
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	18
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	270
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	546
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	16
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	317
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	495
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	299
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	518
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	305
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	513
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	23
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	519
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	264
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	59
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	529
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	256
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	57
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	511
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	275
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	56
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	506
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	280
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	56
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	516
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	266
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	60
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	542
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	275
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	25
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	518
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	303
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	21
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	426
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	383
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	10	Board Room Madison County Annex	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	33
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	214
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	370
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	7
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	18
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	185
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	405
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	229
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	367
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	1
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	221
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	372
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	226
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	363
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	19
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	348
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	206
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	55
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	357
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	196
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	56
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	338
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	216
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	55
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	325
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	224
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	60
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	353
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	200
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	56
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	391
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	189
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	29
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	339
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	258
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	293
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	280
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+MAD	Madison	10218	11/04/2014	2014 General Election	11	Voting House, Bunker St.	0	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	36

@@ -1,0 +1,950 @@
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	570
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	254
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	109
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1084
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	880
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	869
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	514
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1084
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	667
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	626
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	92
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	43
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	61
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	115
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	118
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	136
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	171
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	129
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	141
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	7
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	9
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	569
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	251
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	111
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	1085
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	885
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	864
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	519
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	1088
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	667
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Representative in Congress	 District 3	140030	Kat Cammack	REP	119906886	79481	628
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	83
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	43
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	58
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	108
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	114
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	138
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	80
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	168
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Representative in Congress	 District 3	140030	Danielle Hawk	DEM	122038418	80482	144
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	14
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	12
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	11
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	17
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Representative in Congress	 District 3	140030	Linda S. Brooks	NPA	101846691	81412	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Representative in Congress	 District 3	140030	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	11
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	11
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	9
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Representative in Congress	 District 3	140030	UnderVotes	 	0	902	7
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	583
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	254
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1104
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	895
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	893
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	529
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1106
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	681
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	648
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	82
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	44
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	57
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	106
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	112
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	122
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	72
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	168
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	123
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	7
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	585
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	260
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	117
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1106
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	894
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	892
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	533
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1092
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	683
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	650
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	79
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	40
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	56
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	98
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	105
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	124
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	68
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	166
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	121
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	564
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	248
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	104
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1076
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	861
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	855
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	512
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1060
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	655
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	616
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	84
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	48
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	62
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	106
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	118
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	140
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	172
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	125
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	145
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	23
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	34
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	35
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	36
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	46
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	32
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	577
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	256
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1094
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	884
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	879
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	523
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1087
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	682
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	641
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	43
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	55
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	107
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	130
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	76
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	164
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	122
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	135
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	21
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	27
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	582
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	255
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	1094
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	892
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	885
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	526
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	1088
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	685
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	State Representative	 District 22	260220	Chuck Clemons	REP	100410371	79102	646
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	42
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	59
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	107
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	128
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	74
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	169
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	118
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	State Representative	 District 22	260220	Brandon Peters	DEM	107345741	80014	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	State Representative	 District 22	260220	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	8
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	4
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	15
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	9
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	5
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	21
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	9
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	State Representative	 District 22	260220	UnderVotes	 	0	902	10
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	560
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	255
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	134
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	1024
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	784
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	765
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	492
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	1064
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	675
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	County Commissioner	 District 4	380040	Tommy Langford	REP	104269571	80159	656
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	64
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	25
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	16
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	101
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	150
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	180
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	62
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	122
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	59
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	County Commissioner	 District 4	380040	WriteinVotes	 	0	900	50
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	47
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	21
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	24
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	91
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	79
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	86
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	51
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	92
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	78
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	407
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	168
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	110
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	804
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	572
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	655
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	386
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	789
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	492
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	494
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	206
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	102
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	46
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	297
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	335
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	302
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	163
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	357
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	219
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	212
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	57
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	31
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	17
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	106
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	74
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	56
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	99
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	441
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	177
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	824
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	614
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	670
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	406
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	811
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	505
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	513
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	174
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	90
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	43
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	271
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	290
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	280
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	138
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	331
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	204
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	187
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	56
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	34
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	121
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	110
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	61
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	136
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	103
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	87
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	442
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	180
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	112
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	819
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	604
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	668
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	410
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	814
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	509
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	511
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	172
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	87
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	44
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	277
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	292
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	282
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	137
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	327
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	198
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	187
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	57
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	34
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	120
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	118
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	81
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	58
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	137
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	104
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	89
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	316
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	136
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	85
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	569
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	444
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	523
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	289
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	601
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	383
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	411
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	297
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	129
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	71
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	526
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	455
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	423
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	254
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	537
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	324
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	282
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	58
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	36
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	121
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	115
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	85
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	62
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	140
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	105
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	92
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	384
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	145
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	109
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	737
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	546
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	616
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	365
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	752
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	466
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	457
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	229
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	123
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	47
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	356
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	349
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	331
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	182
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	388
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	242
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	241
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	58
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	33
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	122
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	119
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	84
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	58
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	138
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	103
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	89
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	404
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	161
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	105
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	785
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	576
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	629
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	387
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	760
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	484
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	478
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	184
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	98
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	48
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	300
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	315
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	308
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	151
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	358
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	215
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	205
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	82
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	42
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	21
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	123
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	94
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	160
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	113
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	104
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	416
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	162
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	106
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	794
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	572
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	650
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	398
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	770
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	485
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	486
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	171
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	95
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	47
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	287
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	317
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	284
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	139
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	343
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	212
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	196
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	84
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	44
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	21
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	135
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	125
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	97
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	68
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	165
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	115
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	105
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	426
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	168
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	103
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	816
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	605
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	678
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	404
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	798
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	501
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	503
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	160
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	92
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	49
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	265
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	281
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	256
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	131
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	320
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	193
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	180
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	41
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	22
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	135
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	127
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	97
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	70
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	160
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	118
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	104
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	373
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	160
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	101
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	726
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	527
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	590
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	370
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	716
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	470
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	468
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	214
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	100
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	52
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	351
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	359
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	339
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	166
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	400
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	228
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	214
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	84
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	41
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	21
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	139
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	101
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	69
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	162
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	114
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	105
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	404
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	160
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	99
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	786
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	572
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	621
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	394
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	762
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	480
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	476
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	178
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	98
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	53
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	291
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	312
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	311
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	138
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	346
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	217
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	201
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	89
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	43
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	22
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	139
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	130
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	99
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	73
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	170
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	115
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	110
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	538
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	236
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	121
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1002
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	797
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	806
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	466
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	1007
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	622
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	Sean Brewer	NOP	100458782	79981	605
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	64
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	31
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	35
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	87
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	102
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	133
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	72
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	117
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	92
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	AuBroncee Martin	NOP	100452400	80036	98
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	69
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	34
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	18
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	127
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	114
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	92
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	67
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	154
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	98
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Circuit Judge	 8th Judicial Circuit, Group 12	550812	UnderVotes	 	0	902	84
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	332
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	146
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	83
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	678
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	531
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	525
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	324
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	660
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	421
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	428
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	290
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	125
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	79
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	468
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	417
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	464
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	252
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	524
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	333
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	308
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	49
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	30
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	11
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	70
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	65
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	42
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	29
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	94
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	58
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	50
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	329
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	150
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	101
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	675
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	554
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	528
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	310
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	675
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	442
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	404
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	297
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	119
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	60
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	465
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	392
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	444
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	259
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	500
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	306
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	322
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	2
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	45
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	32
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	13
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	74
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	68
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	59
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	36
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	102
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	64
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	61
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	354
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	187
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	97
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	661
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	529
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	548
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	317
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	649
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	431
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	443
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	284
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	98
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	67
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	503
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	444
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	459
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	271
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	568
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	348
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	309
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1A	1A Trenton Center 	1070	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	32
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1B	1B County Library 	492	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	16
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	1C	1C County Library 	314	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	10
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	2A	2A Donnie Center 	1765	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	52
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	3A	3A Bell Community Center 	1534	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	40
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	4A	4A Cruse Center 	1642	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	24
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	5A	5A N Gilchrist Fire Station 	902	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	17
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	6A	6A Osteen Center 	1835	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	60
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	7A	7A Osceola Center 	1216	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	33
+GIL	Gilchrist	26906	11/08/2022	2022 General Election	8A	8A Southeast Center 	1280	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	35

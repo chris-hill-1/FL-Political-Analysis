@@ -1,0 +1,871 @@
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	632
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	239
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	39
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	12
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	593
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	247
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	40
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	9
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	17
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	6
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	10
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	622
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	247
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	28
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	25
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	623
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	268
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	31
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	652
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	235
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	32
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	621
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	265
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	35
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	667
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	234
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	21
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	517
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	318
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	87
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	506
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	320
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	96
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	511
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	316
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	95
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	518
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	307
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	97
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	515
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	312
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	95
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	598
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	296
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	27
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	571
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	339
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	448
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	423
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	01	Bronson AG Building	2015	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	50
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	927
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	330
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	53
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	19
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	864
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	367
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	60
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	10
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	17
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	885
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	361
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	40
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	43
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	921
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	359
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	49
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	927
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	351
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	48
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	949
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	326
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	54
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	894
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	395
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	723
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	445
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	159
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	697
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	469
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	163
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	699
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	462
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	168
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	694
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	468
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	166
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	709
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	462
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	158
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	848
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	446
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	35
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	725
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	596
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	8
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	625
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	626
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	02	Faith Baptist Tabernacle	2537	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	78
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	956
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	442
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	60
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	23
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	889
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	478
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	63
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	9
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	18
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	9
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	5
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	10
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	903
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	458
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	63
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	56
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	914
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	507
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	60
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	919
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	506
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	5
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	50
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	925
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	484
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	72
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	986
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	436
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	59
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	862
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	481
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	136
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	856
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	486
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	138
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	856
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	478
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	146
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	840
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	494
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	146
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	846
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	493
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	142
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	970
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	442
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	69
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	834
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	612
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	35
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	697
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	664
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	03	Bronson Dogan Cobb Building	3186	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	120
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	455
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	269
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	27
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	8
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	435
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	282
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	21
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	6
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	445
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	250
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	24
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	467
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	252
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	469
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	257
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	32
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	532
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	184
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	43
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	604
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	142
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	13
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	336
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	295
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	128
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	327
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	299
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	133
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	326
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	302
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	131
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	320
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	307
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	132
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	333
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	297
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	129
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	516
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	219
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	24
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	463
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	281
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	15
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	289
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	395
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	04	Cedar Key	1265	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	74
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	1233
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	318
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	40
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	27
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1075
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	412
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	55
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	10
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	21
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	7
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	5
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	34
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1157
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	348
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	44
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	70
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1143
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	378
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	98
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1194
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	343
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	5
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	76
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	1146
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	408
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	65
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	1233
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	337
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	49
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	775
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	623
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	219
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	774
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	629
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	216
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	764
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	636
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	219
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	757
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	634
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	227
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	759
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	633
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	227
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	969
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	569
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	81
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	762
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	817
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	695
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	765
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	05	Willow Sink	2863	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	159
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	212
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	45
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	9
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	2
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	197
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	55
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	195
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	55
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	4
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	196
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	60
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	200
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	57
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	216
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	49
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	3
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	221
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	45
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	2
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	105
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	141
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	22
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	106
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	141
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	21
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	106
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	140
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	22
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	102
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	144
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	22
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	108
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	137
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	23
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	150
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	107
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	11
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	140
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	125
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	111
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	140
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	06	Gulf Hammock	467	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	17
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	726
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	476
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	35
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	24
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	661
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	553
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	24
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	6
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	13
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	670
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	517
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	27
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	47
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	687
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	529
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	45
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	703
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	512
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	44
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	784
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	391
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	86
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	726
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	497
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	38
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	744
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	384
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	133
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	723
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	399
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	137
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	710
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	408
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	142
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	713
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	401
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	147
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	732
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	391
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	138
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	817
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	384
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	60
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	659
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	581
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	21
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	633
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	509
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	07	Williston	2601	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	119
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	843
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	270
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	41
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	13
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	788
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	323
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	43
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	824
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	281
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	35
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	28
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	850
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	281
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	37
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	862
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	270
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	36
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	853
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	263
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	52
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	819
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	317
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	32
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	620
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	412
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	136
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	602
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	427
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	138
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	605
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	422
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	139
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	599
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	426
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	143
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	610
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	421
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	137
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	762
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	359
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	47
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	609
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	541
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	18
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	555
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	540
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	08	Morriston	2161	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	73
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	853
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	389
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	80
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	30
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	838
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	426
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	60
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	13
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	5
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	863
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	403
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	54
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	32
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	931
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	383
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	38
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	923
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	377
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	6
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	47
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	914
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	374
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	65
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	891
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	422
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	683
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	499
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	170
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	672
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	508
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	173
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	662
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	515
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	176
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	662
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	505
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	185
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	683
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	495
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	175
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	868
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	439
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	45
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	836
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	492
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	25
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	582
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	666
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	09	Inglis/Yankeetown	2355	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	105
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	449
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	68
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	9
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	5
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	381
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	102
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	24
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	9
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	413
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	88
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	18
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	417
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	91
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	23
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	438
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	73
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	383
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	139
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	9
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	409
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	108
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	14
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	237
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	227
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	67
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	225
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	236
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	227
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	232
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	72
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	220
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	240
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	71
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	229
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	233
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	69
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	276
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	227
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	28
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	173
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	345
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	208
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	283
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	10	Pinegrove Baptist	879	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	617
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	304
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	31
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	11
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	584
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	321
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	36
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	8
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	8
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	597
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	310
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	40
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	613
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	324
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	25
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	621
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	317
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	625
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	274
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	64
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	604
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	323
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	36
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	481
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	354
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	127
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	479
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	357
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	127
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	468
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	353
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	140
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	467
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	355
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	141
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	483
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	344
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	135
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	572
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	344
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	46
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	516
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	424
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	23
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	403
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	465
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	11	Raliegh	1716	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	95
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	648
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	224
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	41
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	11
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	571
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	273
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	44
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	11
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	16
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	591
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	262
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	36
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	35
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	599
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	286
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	39
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	643
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	251
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	30
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	612
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	272
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	40
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	626
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	272
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	26
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	474
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	349
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	101
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	465
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	356
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	103
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	458
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	354
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	111
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	459
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	350
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	115
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	474
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	340
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	110
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	590
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	296
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	38
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	504
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	401
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	19
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	444
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	420
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	12	Fanning Springs	1832	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	60
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	630
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	257
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	21
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	11
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	532
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	333
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	17
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	13
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	15
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	565
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	283
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	34
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	37
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	558
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	314
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	47
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	597
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	274
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	47
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 2	380020	Rock Meeks	REP	105244647	62323	625
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 2	380020	Robert Studstill	NPA	105234651	62324	255
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	38
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 4	380040	Lilly Rooks	REP	105234161	62326	641
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 4	380040	Jamie Griffin	DEM	117928950	63724	251
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	27
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	484
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	308
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	127
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	475
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	307
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	2
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	135
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	479
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	301
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	138
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	469
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	313
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	137
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	488
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	298
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	133
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	543
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	327
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	49
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	419
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	469
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	3
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	28
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	424
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	404
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+LEV	Levy	10218	11/04/2014	2014 General Election	13	Chiefland	2000	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	91

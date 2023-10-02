@@ -1,0 +1,547 @@
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	140
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	56
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	147
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	43
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	4
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	156
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	38
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	5
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	144
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	50
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	162
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	37
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	86
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	119
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	98
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	105
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	105
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	74
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	26
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	105
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	74
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	26
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	109
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	70
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	26
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	89
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	106
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	90
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	109
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	99
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	90
+GLA	Glades	10218	11/04/2014	2014 General Election	1	1 American Legion	933	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	16
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	161
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	62
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	143
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	72
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	161
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	59
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	7
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	155
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	68
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	172
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	51
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	113
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	117
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	106
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	121
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	125
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	80
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	27
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	120
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	82
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	30
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	125
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	80
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	27
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	133
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	90
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	132
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	97
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	106
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	109
+GLA	Glades	10218	11/04/2014	2014 General Election	2	2 Ortona VFD	1011	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	17
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	81
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	62
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	84
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	45
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	94
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	43
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	80
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	60
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	94
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	52
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	46
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	103
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	64
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	84
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	69
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	58
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	23
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	65
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	60
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	25
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	66
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	59
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	25
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	82
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	59
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	77
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	70
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	74
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	65
+GLA	Glades	10218	11/04/2014	2014 General Election	3	3 Moore Haven Doyle Conn Bldg	828	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	68
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	33
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	76
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	21
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	80
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	20
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	74
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	25
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	83
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	21
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	42
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	61
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	37
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	66
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	51
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	38
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	17
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	48
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	38
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	20
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	49
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	39
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	18
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	56
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	48
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	56
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	49
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	39
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	59
+GLA	Glades	10218	11/04/2014	2014 General Election	4	4 Palmdale Comm Center	669	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	345
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	144
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	18
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	322
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	145
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	15
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	11
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	344
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	133
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	17
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	13
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	346
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	141
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	365
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	125
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	313
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	172
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	22
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	269
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	222
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	16
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	270
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	163
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	74
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	262
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	166
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	79
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	265
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	164
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	78
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	280
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	202
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	25
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	253
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	250
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	4
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	252
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	222
+GLA	Glades	10218	11/04/2014	2014 General Election	5	5 Muse VFD	3216	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	33
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	81
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	164
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	88
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	143
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	103
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	136
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	82
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	161
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	96
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	146
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	71
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	172
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	120
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	123
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	134
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	88
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	28
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	132
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	90
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	28
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	138
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	84
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	28
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	159
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	80
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	128
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	116
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	141
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	100
+GLA	Glades	10218	11/04/2014	2014 General Election	6	6 Moore Haven Doyle Conn Bldg	1857	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	9
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	262
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	106
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	255
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	96
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	5
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	282
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	74
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	15
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	270
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	96
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	279
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	82
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	185
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	178
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	16
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	193
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	168
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	18
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	205
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	140
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	34
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	200
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	142
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	37
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	209
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	134
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	36
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	220
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	148
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	187
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	186
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	185
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	184
+GLA	Glades	10218	11/04/2014	2014 General Election	7	7 Lakeport Comm Center	2319	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	353
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	204
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	16
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	299
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	228
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	30
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	10
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	357
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	186
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	17
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	13
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	348
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	208
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	358
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	200
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	264
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	295
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	14
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	257
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	304
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	12
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	354
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	163
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	56
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	354
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	160
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	59
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	354
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	158
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	61
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	357
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	201
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	15
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	283
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	282
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	266
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	278
+GLA	Glades	10218	11/04/2014	2014 General Election	8	8 Buckhead Ridge Comm Center	2919	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	29
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	44
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	15
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	38
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	22
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	1
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	43
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	17
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	43
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	17
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	45
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	15
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	33
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	26
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	27
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	32
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	34
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	19
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	35
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	18
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	35
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	18
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	43
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	17
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	30
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	31
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	38
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	21
+GLA	Glades	10218	11/04/2014	2014 General Election	9	9 Lakeport Comm Center	411	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	39
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	27
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	29
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	38
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	1
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	36
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	25
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	39
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	26
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	41
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	25
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	22
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	43
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	15
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	52
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	40
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	21
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	39
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	22
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	39
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	22
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	50
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	18
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	34
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	34
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	39
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	26
+GLA	Glades	10218	11/04/2014	2014 General Election	10	10 Brighton Field Offices	462	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	148
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	55
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	162
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	42
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	158
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	43
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	3
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	144
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	52
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	173
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	34
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	95
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	118
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	1
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	102
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	110
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	2
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	112
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	69
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	33
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	109
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	71
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	34
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	110
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	70
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	34
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	87
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	121
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	98
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	110
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	107
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	93
+GLA	Glades	10218	11/04/2014	2014 General Election	11	11 Moore Haven Doyle Conn Bldg	1176	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	14
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	1
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	80
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	5
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	7
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	78
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	11
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	68
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	1
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	8
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	74
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	4
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	2
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	77
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	7
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	5
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	77
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	4
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	38
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	42
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	49
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	27
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	54
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	19
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	13
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	50
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	24
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	12
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	61
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	15
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	45
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	38
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	44
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	29
+GLA	Glades	10218	11/04/2014	2014 General Election	12	12 Washington Park	510	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	13
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	U.S. Representative	 District 17	140170	Tom Rooney	REP	112324497	60333	167
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	U.S. Representative	 District 17	140170	Will Bronson	DEM	111714616	60954	67
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	U.S. Representative	 District 17	140170	UnderVotes	 	0	902	12
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	165
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	69
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	177
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	56
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	5
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	173
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	63
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	10
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	175
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	60
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	County Commissioner	 District 1	380010	Robert Murrhee	REP	104282234	63518	156
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	County Commissioner	 District 1	380010	Weston Pryor	DEM	104284960	63514	84
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	County Commissioner	 District 1	380010	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	County Commissioner	 District 4	380040	Doug Korinke	REP	104283092	63511	138
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	County Commissioner	 District 4	380040	John R. Ahern	DEM	104279169	63509	100
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	8
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	124
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	78
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	44
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	121
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	82
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	43
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	123
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	79
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	44
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	127
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	113
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	6
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	113
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	130
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	118
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	116
+GLA	Glades	10218	11/04/2014	2014 General Election	13	13 Indian Hills FD	1683	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	12

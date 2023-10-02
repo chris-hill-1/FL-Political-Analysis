@@ -1,0 +1,688 @@
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	53
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	534
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	604
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	340
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	333
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	97
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	122
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	129
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	77
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	21
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	76
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	533
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	587
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	336
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	326
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	98
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	116
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	138
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	43
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	91
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	58
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	64
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	31
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	58
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	79
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	561
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	604
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	351
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	351
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	102
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	128
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	125
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	65
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	43
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	6
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	20
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	61
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	555
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	605
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	352
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	348
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	99
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	130
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	119
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	68
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	18
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	61
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	557
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	604
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	346
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	345
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	100
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	126
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	118
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	65
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	46
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	41
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	21
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	4
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	6
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	55
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	76
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	552
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	596
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	335
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	330
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	98
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	126
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	124
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	41
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	70
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	42
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	57
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	21
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	3
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	2
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	59
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	75
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	509
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	581
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	328
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	317
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	95
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	118
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	124
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	43
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	109
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	57
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	63
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	65
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	27
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	4
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	9
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	6
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	10
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	5
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	4
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	79
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	66
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	400
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	369
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	229
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	227
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	39
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	84
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	82
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	41
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	172
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	197
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	122
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	123
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	50
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	26
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	55
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	78
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	45
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	42
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	13
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	76
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	63
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	393
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	378
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	227
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	219
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	40
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	90
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	83
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	44
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	176
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	185
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	119
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	127
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	54
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	43
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	28
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	58
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	46
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	14
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	16
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	66
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	390
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	379
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	225
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	219
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	88
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	79
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	41
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	177
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	183
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	123
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	126
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	46
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	27
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	59
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	48
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	14
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	90
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	59
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	323
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	278
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	171
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	195
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	37
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	69
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	69
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	48
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	246
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	285
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	181
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	151
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	65
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	28
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	57
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	44
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	46
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	64
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	381
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	366
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	221
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	215
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	84
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	79
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	43
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	190
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	198
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	127
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	130
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	50
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	27
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	80
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	48
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	14
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	80
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	64
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	392
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	371
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	220
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	215
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	39
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	84
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	77
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	44
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	178
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	189
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	126
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	128
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	55
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	11
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	57
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	83
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	14
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	17
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	83
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	64
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	381
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	362
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	213
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	216
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	82
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	75
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	42
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	186
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	203
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	133
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	128
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	55
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	52
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	13
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	60
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	79
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	50
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	48
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	80
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	66
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	391
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	367
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	223
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	221
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	38
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	86
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	78
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	39
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	175
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	196
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	122
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	122
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	56
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	13
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	60
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	51
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	14
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	16
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	91
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	63
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	376
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	345
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	211
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	211
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	36
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	83
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	67
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	43
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	192
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	218
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	134
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	133
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	57
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	50
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	13
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	59
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	51
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	16
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	82
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	60
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	386
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	364
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	216
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	211
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	40
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	83
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	76
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	182
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	198
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	129
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	132
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	54
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	51
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	59
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	81
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	14
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	15
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	65
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	64
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	314
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	340
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	199
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	164
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	48
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	78
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	93
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	267
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	245
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	168
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	202
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	52
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	64
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	46
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	58
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	26
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	8
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	65
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	57
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	293
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	303
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	179
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	166
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	48
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	69
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	94
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	286
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	271
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	188
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	199
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	51
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	68
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	28
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	47
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	70
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	29
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	27
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	9
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	12
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	78
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	66
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	337
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	326
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	212
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	192
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	42
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	69
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	88
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	46
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	257
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	269
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	167
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	179
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	59
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	72
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+LIB	Liberty	26906	11/08/2022	2022 General Election	1	Rock Bluff	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	21
+LIB	Liberty	26906	11/08/2022	2022 General Election	2	Annex	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	3	Bristol	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	33
+LIB	Liberty	26906	11/08/2022	2022 General Election	4	Lake Mystic	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	49
+LIB	Liberty	26906	11/08/2022	2022 General Election	5	Hosford	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	17
+LIB	Liberty	26906	11/08/2022	2022 General Election	6	Telogia	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	21
+LIB	Liberty	26906	11/08/2022	2022 General Election	7	Sumatra	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	7
+LIB	Liberty	26906	11/08/2022	2022 General Election	8	Orange	0	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	8

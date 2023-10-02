@@ -1,0 +1,1001 @@
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	651
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	390
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1182
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	706
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	674
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1129
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	432
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1480
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	688
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	533
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	667
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	64
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	256
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	259
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	183
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	383
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	139
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	401
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	161
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	112
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	149
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	12
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	6
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	11
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	10
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	7
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	11
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	650
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	391
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	1176
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	716
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	676
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	1113
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	432
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	1514
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	702
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	521
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Representative in Congress	 District 18	140180	Scott Franklin	REP	0	79166	670
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	81
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	57
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	219
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	213
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	155
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	348
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	113
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	316
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	138
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	103
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Representative in Congress	 District 18	140180	Keith R. Hayden Jr	NPA	122539828	81019	117
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	6
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	5
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Representative in Congress	 District 18	140180	WriteinVotes	 	0	900	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Representative in Congress	 District 18	140180	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	32
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	62
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	48
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	44
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	84
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	35
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	72
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	22
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	33
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Representative in Congress	 District 18	140180	UnderVotes	 	0	902	41
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	670
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	395
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1228
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	723
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	691
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1159
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	433
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1516
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	704
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	543
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	684
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	91
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	60
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	220
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	243
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	176
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	377
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	140
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	373
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	153
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	109
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	137
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	5
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	7
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	5
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	6
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	653
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	395
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1205
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	713
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	690
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1147
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	431
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1533
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	711
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	544
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	682
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	100
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	60
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	227
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	248
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	166
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	366
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	140
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	340
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	141
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	104
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	133
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	30
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	18
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	21
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	36
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	34
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	642
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	382
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1168
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	689
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	669
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1095
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	421
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1477
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	693
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	531
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	661
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	109
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	66
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	250
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	255
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	182
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	395
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	146
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	377
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	149
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	113
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	137
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	44
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	35
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	26
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	59
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	53
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	21
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	15
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	33
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	655
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	392
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1210
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	688
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	673
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1122
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	430
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1497
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	709
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	541
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	671
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	102
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	62
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	220
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	264
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	184
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	377
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	143
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	357
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	137
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	106
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	135
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	12
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	32
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	27
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	50
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	53
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	12
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	485
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	290
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	894
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	616
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	592
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	978
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	385
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	1270
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	530
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	414
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	526
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	186
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	114
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	390
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	245
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	173
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	390
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	133
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	444
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	241
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	164
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	153
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	98
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	53
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	178
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	118
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	112
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	181
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	63
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	192
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	91
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	81
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	151
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	499
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	297
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	938
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	619
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	585
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	967
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	395
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	1260
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	552
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	421
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	525
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	171
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	106
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	340
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	236
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	174
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	386
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	120
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	436
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	217
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	154
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	149
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	98
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	54
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	184
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	124
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	118
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	196
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	66
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	211
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	94
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	84
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	157
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	503
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	291
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	931
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	627
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	589
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	967
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	396
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1255
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	554
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	427
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	516
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	167
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	107
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	344
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	229
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	164
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	386
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	115
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	437
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	215
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	149
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	155
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	98
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	59
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	187
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	123
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	124
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	196
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	70
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	214
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	94
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	83
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	160
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	358
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	248
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	741
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	575
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	504
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	845
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	311
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	1082
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	460
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	363
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	457
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	309
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	152
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	539
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	283
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	252
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	504
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	194
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	613
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	309
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	210
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	217
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	101
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	57
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	182
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	120
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	121
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	200
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	75
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	212
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	94
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	86
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	157
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	461
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	280
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	887
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	602
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	578
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	959
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	384
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1219
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	524
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	401
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	500
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	207
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	119
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	394
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	256
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	181
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	390
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	131
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	465
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	245
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	174
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	172
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	99
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	58
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	181
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	120
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	117
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	200
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	66
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	222
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	93
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	84
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	158
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	474
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	288
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	898
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	613
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	568
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	958
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	385
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	1233
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	542
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	407
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	Yes	NOP	112297529	10	503
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	187
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	373
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	242
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	181
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	380
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	124
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	445
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	224
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	161
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	No	NOP	112297529	20	161
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	107
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	58
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	191
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	124
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	127
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	210
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	72
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	229
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	97
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	91
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Ed Artau	Fourth District Court of Appeal	520401	UnderVotes	 	0	902	167
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	394
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	258
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	788
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	557
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	517
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	859
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	323
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	1113
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	480
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	344
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	Yes	NOP	112155965	10	461
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	262
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	139
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	474
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	291
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	228
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	476
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	181
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	555
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	282
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	220
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	No	NOP	112155965	20	200
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	59
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	200
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	131
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	131
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	214
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	77
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	239
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	100
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	95
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Cory J. Ciklin	Fourth District Court of Appeal	520402	UnderVotes	 	0	902	170
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	441
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	270
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	838
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	592
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	548
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	915
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	346
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	1172
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	520
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	375
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	Yes	NOP	0	10	484
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	217
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	129
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	420
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	261
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	194
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	415
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	156
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	489
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	242
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	191
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	No	NOP	0	20	177
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	58
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	204
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	126
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	135
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	218
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	78
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	245
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	100
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	93
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Dorian K. Damoorgian	Fourth District Court of Appeal	520403	UnderVotes	 	0	902	170
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	465
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	287
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	876
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	609
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	580
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	951
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	361
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	1238
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	544
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	404
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	Yes	NOP	112440389	10	502
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	194
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	114
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	385
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	243
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	169
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	380
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	142
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	429
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	219
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	160
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	No	NOP	112440389	20	159
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	109
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	56
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	200
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	127
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	128
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	218
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	78
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	240
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	100
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	95
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Jonathan D. Gerber	Fourth District Court of Appeal	520404	UnderVotes	 	0	902	170
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	437
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	258
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	823
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	579
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	536
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	912
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	339
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	1169
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	494
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	387
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	Yes	NOP	112157253	10	487
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	224
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	130
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	420
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	262
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	188
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	412
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	156
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	491
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	258
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	177
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	No	NOP	112157253	20	174
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	4
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	107
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	69
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	218
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	137
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	152
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	225
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	85
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	243
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	94
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Robert M. Gross	Fourth District Court of Appeal	520405	UnderVotes	 	0	902	170
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	457
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	270
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	835
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	585
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	536
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	918
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	352
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	1193
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	509
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	380
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	Yes	NOP	105198202	10	493
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	198
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	119
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	403
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	252
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	182
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	395
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	143
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	466
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	241
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	174
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	No	NOP	105198202	20	164
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	2
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	68
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	222
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	142
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	158
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	236
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	85
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	248
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	112
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	104
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Spencer D. Levine	Fourth District Court of Appeal	520406	UnderVotes	 	0	902	174
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	477
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	273
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	865
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	618
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	554
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	954
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	370
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	1251
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	530
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	405
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	Yes	NOP	101878734	10	503
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	181
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	116
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	375
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	218
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	170
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	351
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	125
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	419
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	224
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	155
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	No	NOP	101878734	20	150
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	110
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	68
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	222
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	143
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	153
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	244
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	86
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	237
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	109
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	99
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Retention of Melanie G. May	Fourth District Court of Appeal	520407	UnderVotes	 	0	902	178
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	391
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	217
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	741
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	464
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	457
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	754
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	309
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	1036
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	421
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	323
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	446
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	300
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	212
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	606
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	432
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	322
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	649
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	213
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	735
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	365
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	275
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	281
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	78
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	28
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	114
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	83
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	98
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	145
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	59
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	135
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	77
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	61
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	103
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	362
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	223
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	719
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	477
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	414
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	741
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	295
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	1022
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	456
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	305
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	441
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	323
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	199
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	615
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	417
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	359
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	646
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	221
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	739
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	326
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	289
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	287
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	3
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	84
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	35
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	128
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	85
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	104
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	161
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	65
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	143
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	80
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	65
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	103
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	399
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	246
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	763
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	600
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	483
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	881
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	317
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	1107
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	488
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	371
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	466
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	324
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	195
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	628
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	313
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	326
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	556
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	219
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	712
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	322
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	252
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	291
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	1
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	1	1-ABIDING HOPE WORSHIP CENTER	1584	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	46
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	2	2-BASINGER COMMUNITY CENTER	959	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	16
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	3	3-OAKVIEW BAPTIST CHURCH	2403	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	71
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	4	4-OKEECHOBEE CIVIC CENTER	3052	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	66
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	5	5-FREEDOM RANCH	1658	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	68
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	6	6-FIRST BAPTIST CHURCH ROC	3380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	111
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	9	7 - HAMPTON INN	1355	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	45
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	10	8-KOA	3865	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	87
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	11	9-NEW TESTAMENT BAPTIST CHURCH	1921	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	53
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	12	10-FT DRUM COMMUNITY CHURCH	1227	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	36
+OKE	Okeechobee	26906	11/08/2022	2022 General Election	13	11-PALM VILLAGE RANCH CLUBHOUSE	1353	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	74

@@ -1,0 +1,1236 @@
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1296
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	2732
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	668
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	150
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	195
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	842
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	1750
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	429
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	270
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	269
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	892
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	Marco Rubio	REP	0	81751	992
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	625
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	1180
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	285
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	18
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	73
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	220
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	657
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	200
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	86
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	97
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	436
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	Val Demings	DEM	0	80963	466
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	7
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	23
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	7
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	Dennis Misigoy	LPF	109912678	79517	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	Steven B. Grant	NPA	115754446	81640	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	8
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	7
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	Tuan TQ Nguyen	NPA	114825953	81819	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	22
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	7
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	19
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	United States Senator	 	120000	UnderVotes	 	0	902	12
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	1342
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	2797
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	675
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	151
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	203
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	846
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	1784
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	431
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	278
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	276
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	906
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Representative in Congress	 District 2	140020	Neal Dunn	REP	100635275	79167	1031
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	594
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	1156
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	288
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	17
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	70
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	228
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	648
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	199
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	80
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	94
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	429
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Representative in Congress	 District 2	140020	Al Lawson	DEM	104987227	81776	455
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Representative in Congress	 District 2	140020	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	27
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	8
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	24
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	7
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	15
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Representative in Congress	 District 2	140020	UnderVotes	 	0	902	10
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1379
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	2878
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	703
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	155
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	209
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	870
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1844
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	442
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	288
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	277
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	925
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Governor and Lieutenant Governor	 	160000	DeSantis / Nuñez	REP	107083209	79799	1063
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	561
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	1057
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	253
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	202
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	579
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	188
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	70
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	96
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	416
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Hernandez	DEM	107305453	79408	420
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	15
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	7
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Governor and Lieutenant Governor	 	160000	Roos / Rorabaugh	LPF	109876282	82220	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	8
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	14
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	5
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	18
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Governor and Lieutenant Governor	 	160000	Gimenez / Gibson	NPA	121836131	81243	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1411
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	2966
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	710
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	156
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	207
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	869
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1871
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	454
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	286
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	285
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	950
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Attorney General	 	160200	Ashley Moody	REP	103623841	79666	1071
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	520
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	976
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	247
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	11
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	192
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	555
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	173
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	68
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	79
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	385
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Attorney General	 	160200	Aramis Ayala	DEM	113044582	80094	405
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	26
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	39
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	14
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	22
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	31
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	15
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1375
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	2909
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	702
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	151
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	210
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	858
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1840
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	448
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	290
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	287
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	929
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Chief Financial Officer	 	160500	Jimmy Patronis	REP	100661356	79232	1052
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	544
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	1022
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	254
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	15
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	61
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	204
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	571
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	176
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	74
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	397
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Chief Financial Officer	 	160500	Adam Hattersley	DEM	102760841	80078	426
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	38
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	50
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	45
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	24
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1356
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	2855
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	687
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	152
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	210
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	855
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1816
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	440
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	285
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	283
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	912
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Commissioner of Agriculture	 	160800	Wilton Simpson	REP	106529629	79676	1018
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	564
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	1074
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	267
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	60
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	205
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	592
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	180
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	82
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	414
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Commissioner of Agriculture	 	160800	Naomi Esther Blemur	DEM	122424599	81069	451
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	37
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	18
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	23
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	48
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	27
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	1306
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	2760
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	675
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	152
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	196
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	835
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	1771
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	433
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	271
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	267
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	889
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	State Senator	 District 3	240030	Corey Simon	REP	105158355	81828	1017
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	605
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	1145
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	276
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	15
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	218
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	636
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	191
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	81
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	99
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	418
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	State Senator	 District 3	240030	Loranne Ausley	DEM	105099790	79085	444
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	State Senator	 District 3	240030	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	46
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	76
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	30
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	50
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	11
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	8
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	43
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	State Senator	 District 3	240030	UnderVotes	 	0	902	35
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	1115
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	2378
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	547
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	98
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	165
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	624
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	1458
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	363
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	193
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	241
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	809
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	Yes	NOP	113445454	10	870
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	622
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	1184
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	311
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	71
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	314
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	760
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	182
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	125
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	81
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	414
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	No	NOP	113445454	20	487
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	220
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	419
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	113
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	19
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	38
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	145
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	236
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	92
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	45
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	127
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Charles T. Canady	Justice of the Supreme Court	500001	UnderVotes	 	0	902	139
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	1099
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	2390
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	548
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	103
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	163
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	619
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	1462
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	351
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	205
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	241
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	809
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	Yes	NOP	117954867	10	890
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	631
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	1167
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	306
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	47
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	72
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	310
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	748
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	183
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	113
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	81
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	406
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	No	NOP	117954867	20	466
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	227
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	424
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	118
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	19
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	39
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	152
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	247
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	103
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	45
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	135
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of John D. Couriel	Justice of the Supreme Court	500002	UnderVotes	 	0	902	140
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1101
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	2395
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	535
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	96
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	163
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	619
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	1472
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	345
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	197
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	236
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	806
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	Yes	NOP	114658609	10	891
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	620
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	1150
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	316
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	72
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	312
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	730
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	189
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	119
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	82
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	408
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	No	NOP	114658609	20	462
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	236
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	433
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	121
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	39
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	151
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	254
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	102
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	47
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	56
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	135
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jamie Grosshans	Justice of the Supreme Court	500003	UnderVotes	 	0	902	142
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	996
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	2171
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	502
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	81
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	152
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	559
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	1330
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	351
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	182
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	207
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	766
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	Yes	NOP	112170657	10	819
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	735
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	1362
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	353
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	67
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	82
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	370
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	876
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	185
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	132
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	113
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	450
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	No	NOP	112170657	20	531
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	226
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	444
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	116
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	40
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	154
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	248
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	99
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	49
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	54
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	134
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Jorge Labarga	Justice of the Supreme Court	500004	UnderVotes	 	0	902	146
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1099
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	2352
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	540
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	94
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	168
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	617
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	1437
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	354
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	188
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	228
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	807
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	Yes	NOP	105012057	10	871
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	630
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	1185
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	315
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	54
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	66
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	313
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	771
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	180
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	128
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	92
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	408
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	No	NOP	105012057	20	483
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	228
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	444
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	117
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	40
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	153
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	249
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	101
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	47
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	54
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	135
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ricky Polston	Justice of the Supreme Court	500005	UnderVotes	 	0	902	142
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1047
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	2343
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	525
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	90
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	158
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	609
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	1424
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	332
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	203
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	227
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	788
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	Yes	NOP	104072514	10	828
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	635
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	1130
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	324
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	55
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	67
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	304
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	714
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	183
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	109
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	82
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	394
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	No	NOP	104072514	20	495
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	275
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	506
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	123
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	24
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	48
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	170
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	319
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	122
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	51
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	167
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Ross L. Bilbrey	First District Court of Appeal	520101	UnderVotes	 	0	902	173
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1078
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	2339
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	537
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	93
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	156
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	613
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	1446
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	356
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	198
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	222
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	795
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	Yes	NOP	105020100	10	870
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	602
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	1113
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	306
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	54
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	295
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	687
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	162
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	111
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	83
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	391
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	No	NOP	105020100	20	451
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	277
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	527
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	128
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	22
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	49
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	175
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	324
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	119
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	53
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	164
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Susan Kelsey	First District Court of Appeal	520102	UnderVotes	 	0	902	173
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	1081
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	2335
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	539
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	95
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	161
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	623
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	1431
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	333
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	205
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	221
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	789
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	Yes	NOP	105165414	10	853
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	595
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	1117
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	300
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	283
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	691
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	181
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	106
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	86
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	392
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	No	NOP	105165414	20	468
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	280
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	528
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	133
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	22
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	48
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	176
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	335
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	122
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	52
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	67
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	168
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bobby Long	First District Court of Appeal	520103	UnderVotes	 	0	902	174
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	1044
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	2280
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	538
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	87
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	159
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	617
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	1378
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	349
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	187
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	207
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	787
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	Yes	NOP	105059032	10	856
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	629
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	1166
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	304
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	60
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	66
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	292
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	749
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	166
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	125
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	98
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	392
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	No	NOP	105059032	20	461
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	OverVotes	 	0	901	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	284
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	534
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	128
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	48
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	174
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	330
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	122
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	51
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	171
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Lori S. Rowe	First District Court of Appeal	520104	UnderVotes	 	0	902	176
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1032
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	2266
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	521
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	96
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	158
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	604
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	1389
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	323
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	197
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	219
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	794
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	Yes	NOP	105086897	10	818
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	640
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	1161
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	324
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	50
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	302
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	733
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	188
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	112
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	86
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	387
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	No	NOP	105086897	20	499
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	285
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	553
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	127
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	23
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	51
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	177
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	335
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	126
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	54
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	169
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Retention of Bo Winokur	First District Court of Appeal	520105	UnderVotes	 	0	902	179
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	716
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	1573
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	568
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	48
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	96
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	481
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	1015
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	233
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	137
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	146
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	550
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Court Judge	 Group 1	600001	Eddie Evans	NOP	108835533	80396	630
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	1006
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	2013
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	346
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	110
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	131
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	494
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	1165
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	307
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	185
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	169
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	620
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Court Judge	 Group 1	600001	Brian Miller	NOP	105121079	80397	719
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	234
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	391
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	57
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	11
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	47
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	108
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	274
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	97
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	41
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	59
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	180
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	147
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	846
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	1996
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	470
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	86
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	98
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	518
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	1140
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	275
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	159
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	153
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	633
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	School Board	 District 1	610001	Eddie Hand	NOP	104735122	80780	706
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	870
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	1590
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	415
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	63
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	135
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	461
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	1032
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	246
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	154
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	147
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	556
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	School Board	 District 1	610001	Dod Walker	NOP	108820982	80778	628
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	241
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	395
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	86
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	20
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	40
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	104
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	284
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	116
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	50
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	74
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	161
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	162
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	1253
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	2627
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	639
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	131
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	183
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	822
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	1632
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	379
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	256
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	249
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	834
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 2	680002	Fred Nichols II	REP	108831340	80776	955
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	660
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	1297
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	312
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	32
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	83
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	243
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	776
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	240
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	101
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	116
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	484
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 2	680002	John Quinton	DEM	121800771	80775	514
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 2	680002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	44
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	56
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	8
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	18
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	49
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	18
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	32
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 2	680002	UnderVotes	 	0	902	27
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	1128
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	2268
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	574
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	122
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	185
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	684
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	1463
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	359
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	223
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	238
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	712
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 4	680004	Quincee Messersmith	REP	108818906	80777	769
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	784
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	1643
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	380
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	41
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	81
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	376
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	953
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	266
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	133
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	123
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	614
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 4	680004	Samuel G McGrew Jr.	DEM	108827407	82759	704
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	14
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	4
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	3
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 4	680004	WriteinVotes	 	0	900	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 4	680004	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	43
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	56
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	19
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	38
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	9
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	6
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	12
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	County Commissioner	 District 4	680004	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	926
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	1921
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	409
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	75
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	146
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	538
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	1181
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	325
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	172
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	220
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	636
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	Yes for Approval	NOP	0	10	713
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	865
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	1743
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	498
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	81
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	110
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	447
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	1080
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	258
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	160
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	130
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	609
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	No for Rejection	NOP	0	20	659
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	166
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	317
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	65
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	13
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	98
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	194
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	54
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	31
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	24
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	105
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 1: Limitation on Assessment of Real Property Used for Residential Purposes	 	900001	UnderVotes	 	0	902	124
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	868
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	1866
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	417
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	76
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	132
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	504
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	1122
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	290
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	166
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	188
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	640
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	Yes for Approval	NOP	0	10	695
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	922
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	1782
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	479
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	77
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	120
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	476
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	1112
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	284
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	165
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	159
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	590
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	No for Rejection	NOP	0	20	664
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	1
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	167
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	332
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	76
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	16
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	21
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	103
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	222
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	63
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	32
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	27
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	120
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 2: Abolishing the Constitution Revision Commission	 	900002	UnderVotes	 	0	902	135
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	958
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	2253
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	484
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	89
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	120
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	533
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	1307
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	306
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	181
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	163
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	692
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	Yes for Approval	NOP	0	10	866
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	888
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	1512
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	435
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	69
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	139
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	466
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	979
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	292
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	156
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	188
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	562
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	No for Rejection	NOP	0	20	537
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	2
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	OverVotes	 	0	901	0
+WAK	Wakulla	26906	11/08/2022	2022 General Election	1	01 Wakulla Station	2917	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	111
+WAK	Wakulla	26906	11/08/2022	2022 General Election	2	02 Crawfordville	6424	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	214
+WAK	Wakulla	26906	11/08/2022	2022 General Election	3	03 Sopchoppy	1429	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	53
+WAK	Wakulla	26906	11/08/2022	2022 General Election	4	04 Smith Creek	222	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	11
+WAK	Wakulla	26906	11/08/2022	2022 General Election	5	05 St. Marks	380	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	15
+WAK	Wakulla	26906	11/08/2022	2022 General Election	6	06 Medart	1704	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	84
+WAK	Wakulla	26906	11/08/2022	2022 General Election	7	07 Ivan	3776	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	171
+WAK	Wakulla	26906	11/08/2022	2022 General Election	8	08 Shell Point	924	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	39
+WAK	Wakulla	26906	11/08/2022	2022 General Election	9	09 Panacea	648	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	26
+WAK	Wakulla	26906	11/08/2022	2022 General Election	10	10 Ochlockonee	518	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	23
+WAK	Wakulla	26906	11/08/2022	2022 General Election	11	11 Bethel Church	2000	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	96
+WAK	Wakulla	26906	11/08/2022	2022 General Election	12	12 Shadeville	2678	0	0	0	Amendment No. 3: Additional Homestead Property Tax Exemption for Specified Critical Public Services Workforce	 	900003	UnderVotes	 	0	902	93

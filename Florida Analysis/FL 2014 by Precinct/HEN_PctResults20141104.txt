@@ -1,0 +1,484 @@
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	U.S. Representative	 District 20	140200	Jay Bonner	REP	112123524	61181	220
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	U.S. Representative	 District 20	140200	Alcee L. Hastings	DEM	101602313	61530	973
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	U.S. Representative	 District 20	140200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	U.S. Representative	 District 20	140200	UnderVotes	 	0	902	32
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	251
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	927
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	14
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	10
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	303
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	877
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	14
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	31
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	263
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	927
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	35
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	283
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	901
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	40
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	782
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	325
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	118
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	747
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	337
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	141
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	771
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	327
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	127
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	755
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	379
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	90
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	685
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	486
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	53
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	664
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	470
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	001	PRECINCT 1 01	3270	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	91
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	920
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	480
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	61
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	6
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	32
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	5
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	15
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1026
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	395
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	53
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	45
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1002
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	428
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	90
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1040
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	412
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	64
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	County Commissioner	 District 2	380020	Darrell R Harris	REP	104339396	61685	862
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	County Commissioner	 District 2	380020	Dean Tanner	DEM	104338978	61688	634
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	894
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	453
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	173
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	865
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	451
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	204
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	907
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	431
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	182
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	855
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	600
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	65
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	698
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	798
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	825
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	606
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	002	PRECINCT 2 02	3381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	89
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	753
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	404
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	33
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	10
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	12
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	827
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	349
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	19
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	25
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	812
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	351
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	57
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	854
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	319
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	5
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	42
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	705
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	360
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	155
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	673
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	372
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	175
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	682
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	372
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	166
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	703
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	461
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	56
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	620
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	582
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	18
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	646
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	519
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	003	PRECINCT 3 03	2856	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	55
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	U.S. Representative	 District 20	140200	Jay Bonner	REP	112123524	61181	31
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	U.S. Representative	 District 20	140200	Alcee L. Hastings	DEM	101602313	61530	31
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	U.S. Representative	 District 20	140200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	U.S. Representative	 District 20	140200	UnderVotes	 	0	902	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	34
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	30
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	35
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	28
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	38
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	27
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	34
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	30
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	45
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	16
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	37
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	22
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	6
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	44
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	17
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	45
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	20
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	43
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	22
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	43
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	21
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	004	PRECINCT 4 04	185	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	146
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	49
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	8
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	156
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	40
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	157
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	42
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	10
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	166
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	36
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	7
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	116
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	70
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	23
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	105
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	78
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	26
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	107
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	78
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	91
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	110
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	8
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	100
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	105
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	100
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	96
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	005	PRECINCT 5 05	403	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	13
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	U.S. Representative	 District 20	140200	Jay Bonner	REP	112123524	61181	335
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	U.S. Representative	 District 20	140200	Alcee L. Hastings	DEM	101602313	61530	242
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	U.S. Representative	 District 20	140200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	U.S. Representative	 District 20	140200	UnderVotes	 	0	902	28
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	392
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	167
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	23
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	10
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	7
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	402
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	167
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	16
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	20
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	396
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	189
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	410
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	171
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	338
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	200
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	67
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	326
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	198
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	81
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	336
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	198
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	71
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	302
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	284
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	19
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	300
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	300
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	5
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	302
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	274
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	006	PRECINCT 6 06	1869	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	29
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	U.S. Representative	 District 20	140200	Jay Bonner	REP	112123524	61181	641
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	U.S. Representative	 District 20	140200	Alcee L. Hastings	DEM	101602313	61530	335
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	U.S. Representative	 District 20	140200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	U.S. Representative	 District 20	140200	UnderVotes	 	0	902	46
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	771
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	214
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	18
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	12
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	783
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	198
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	14
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	27
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	779
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	204
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	39
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	820
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	177
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	25
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	551
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	320
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	151
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	529
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	330
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	163
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	548
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	312
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	162
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	423
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	540
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	59
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	413
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	586
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	23
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	433
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	503
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	007	PRECINCT 7 07	1931	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	86
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	141
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	81
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	154
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	66
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	13
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	155
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	70
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	166
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	66
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	147
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	71
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	23
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	148
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	69
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	144
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	73
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	135
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	99
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	7
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	130
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	110
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	119
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	113
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	008	PRECINCT 8 08	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	9
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	185
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	174
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	16
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	210
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	156
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	9
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	210
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	155
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	22
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	224
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	147
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	16
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	253
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	90
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	44
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	243
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	92
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	52
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	245
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	95
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	47
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	240
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	123
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	24
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	217
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	159
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	11
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	215
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	142
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	009	PRECINCT 9 09	1105	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	30
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	U.S. Representative	 District 20	140200	Jay Bonner	REP	112123524	61181	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	U.S. Representative	 District 20	140200	Alcee L. Hastings	DEM	101602313	61530	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	U.S. Representative	 District 20	140200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	U.S. Representative	 District 20	140200	UnderVotes	 	0	902	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	156
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	100
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	22
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	6
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	175
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	100
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	167
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	104
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	23
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	185
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	91
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	Yes	NOP	110413666	10	166
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	No	NOP	110413666	20	86
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Chris W. Altenbernd	Second District Court of Appeal	520201	UnderVotes	 	0	902	42
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	Yes	NOP	106869196	10	170
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	No	NOP	106869196	20	82
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Morris Silberman	Second District Court of Appeal	520202	UnderVotes	 	0	902	42
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	Yes	NOP	110555691	10	171
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	No	NOP	110555691	20	81
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Retention of Daniel H. Sleet	Second District Court of Appeal	520203	UnderVotes	 	0	902	42
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	167
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	96
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	31
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	154
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	123
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	17
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	149
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	108
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+HEN	Hendry	10218	11/04/2014	2014 General Election	010	PRECINCT 10 10	1077	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	37
