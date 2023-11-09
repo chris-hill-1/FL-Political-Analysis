@@ -1,0 +1,309 @@
+,county_code,county_name,elec_num,elec_date,elec_name,precinct_id,poll_loc,total_reg,total_reg_r,total_reg_d,total_reg_other,contest_name,district,contest_code,cand_or_issue,cand_party,cand_id,doe_num,vote_total
+32352,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Trump / Pence,REP,0.0,65072.0,0
+32353,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Clinton / Kaine,DEM,0.0,65058.0,0
+32354,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Johnson / Weld,LPF,0.0,69370.0,0
+32355,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Castle / Bradley,CPF,0.0,69385.0,0
+32356,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Stein / Baraka,GRE,0.0,69377.0,0
+32357,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,De La Fuente / Steinberg,REF,0.0,69403.0,0
+32358,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,WriteinVotes, ,0.0,900.0,0
+32359,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,OverVotes, ,0.0,901.0,0
+32360,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,UnderVotes, ,0.0,902.0,0
+32361,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Marco Rubio,REP,109340956.0,65070.0,0
+32362,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Patrick Murphy,DEM,110225855.0,65041.0,0
+32363,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Paul Stanton,LPF,122945407.0,66374.0,0
+32364,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Tony Khoury,NPA,109645332.0,65297.0,0
+32365,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Bruce Nathan,NPA,105899561.0,64800.0,0
+32366,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Steven Machat,NPA,118948766.0,64869.0,0
+32367,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Basil E. Dalack,NPA,112148742.0,65789.0,0
+32368,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,WriteinVotes, ,0.0,900.0,0
+32369,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,OverVotes, ,0.0,901.0,0
+32370,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,UnderVotes, ,0.0,902.0,0
+32371,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,Mario Diaz-Balart,REP,109123824.0,65305.0,0
+32372,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,Alina Valdes,DEM,102103601.0,64653.0,0
+32373,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,OverVotes, ,0.0,901.0,0
+32374,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,UnderVotes, ,0.0,902.0,0
+32379,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,Carlos Trujillo,REP,109875207.0,64469.0,0
+32380,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,Patricio Moreno,DEM,118188259.0,68212.0,0
+32381,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,OverVotes, ,0.0,901.0,0
+32382,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,UnderVotes, ,0.0,902.0,0
+32383,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,Harvey Ruvin,DEM,108927306.0,69079.0,0
+32384,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,WriteinVotes, ,0.0,900.0,0
+32385,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,OverVotes, ,0.0,901.0,0
+32386,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,UnderVotes, ,0.0,902.0,0
+32387,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,Yes,NOP,113445454.0,10.0,0
+32388,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,No,NOP,113445454.0,20.0,0
+32389,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,OverVotes, ,0.0,901.0,0
+32390,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,UnderVotes, ,0.0,902.0,0
+32391,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,Yes,NOP,112170657.0,10.0,0
+32392,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,No,NOP,112170657.0,20.0,0
+32393,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,OverVotes, ,0.0,901.0,0
+32394,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,UnderVotes, ,0.0,902.0,0
+32395,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,Yes,NOP,105012057.0,10.0,0
+32396,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,No,NOP,105012057.0,20.0,0
+32397,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,OverVotes, ,0.0,901.0,0
+32398,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,UnderVotes, ,0.0,902.0,0
+32399,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,Yes,NOP,113920061.0,10.0,0
+32400,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,No,NOP,113920061.0,20.0,0
+32401,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,OverVotes, ,0.0,901.0,0
+32402,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,UnderVotes, ,0.0,902.0,0
+32403,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,Yes,NOP,108951508.0,10.0,0
+32404,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,No,NOP,108951508.0,20.0,0
+32405,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,OverVotes, ,0.0,901.0,0
+32406,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,UnderVotes, ,0.0,902.0,0
+32407,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Mark Blumstein,NOP,109292291.0,65231.0,0
+32408,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Luis Perez-Medina,NOP,109018529.0,64933.0,0
+32409,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,OverVotes, ,0.0,901.0,0
+32410,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,UnderVotes, ,0.0,902.0,0
+32411,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,"Carol ""Jodie"" Breece",NOP,109866289.0,64542.0,0
+32412,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,Oscar Rodriguez-Fonts,NOP,109317554.0,64524.0,0
+32413,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,OverVotes, ,0.0,901.0,0
+32414,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,UnderVotes, ,0.0,902.0,0
+32415,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,Carlos Gimenez,NOP,109141355.0,69071.0,0
+32416,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,Raquel Regalado,NOP,110015425.0,69074.0,0
+32417,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,OverVotes, ,0.0,901.0,0
+32418,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,UnderVotes, ,0.0,902.0,0
+32419,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,Yes for Approval,NOP,0.0,10.0,0
+32420,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,No for Rejection,NOP,0.0,20.0,0
+32421,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,OverVotes, ,0.0,901.0,0
+32422,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,UnderVotes, ,0.0,902.0,0
+32423,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,Yes for Approval,NOP,0.0,10.0,0
+32424,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,No for Rejection,NOP,0.0,20.0,0
+32425,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,OverVotes, ,0.0,901.0,0
+32426,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,UnderVotes, ,0.0,902.0,0
+32427,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,Yes for Approval,NOP,0.0,10.0,0
+32428,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,No for Rejection,NOP,0.0,20.0,0
+32429,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,OverVotes, ,0.0,901.0,0
+32430,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,UnderVotes, ,0.0,902.0,0
+32431,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,Yes for Approval,NOP,0.0,10.0,0
+32432,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,No for Rejection,NOP,0.0,20.0,0
+32433,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,OverVotes, ,0.0,901.0,0
+32434,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,UnderVotes, ,0.0,902.0,0
+32435,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Trump / Pence,REP,0.0,65072.0,0
+32436,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Clinton / Kaine,DEM,0.0,65058.0,0
+32437,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Johnson / Weld,LPF,0.0,69370.0,0
+32438,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Castle / Bradley,CPF,0.0,69385.0,0
+32439,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,Stein / Baraka,GRE,0.0,69377.0,0
+32440,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,De La Fuente / Steinberg,REF,0.0,69403.0,0
+32441,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,WriteinVotes, ,0.0,900.0,0
+32442,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,OverVotes, ,0.0,901.0,0
+32443,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,President of the United States, ,100000.0,UnderVotes, ,0.0,902.0,0
+32444,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Marco Rubio,REP,109340956.0,65070.0,0
+32445,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Patrick Murphy,DEM,110225855.0,65041.0,0
+32446,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Paul Stanton,LPF,122945407.0,66374.0,0
+32447,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Tony Khoury,NPA,109645332.0,65297.0,0
+32448,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Bruce Nathan,NPA,105899561.0,64800.0,0
+32449,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Steven Machat,NPA,118948766.0,64869.0,0
+32450,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,Basil E. Dalack,NPA,112148742.0,65789.0,0
+32451,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,WriteinVotes, ,0.0,900.0,0
+32452,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,OverVotes, ,0.0,901.0,0
+32453,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1307458,United States Senator, ,120000.0,UnderVotes, ,0.0,902.0,0
+32454,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,Mario Diaz-Balart,REP,109123824.0,65305.0,0
+32455,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,Alina Valdes,DEM,102103601.0,64653.0,0
+32456,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,OverVotes, ,0.0,901.0,0
+32457,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,234216,Representative in Congress, District 25,140250.0,UnderVotes, ,0.0,902.0,0
+32462,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,Carlos Trujillo,REP,109875207.0,64469.0,0
+32463,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,Patricio Moreno,DEM,118188259.0,68212.0,0
+32464,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,OverVotes, ,0.0,901.0,0
+32465,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,43558,State Representative, District 105,261050.0,UnderVotes, ,0.0,902.0,0
+32466,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,Harvey Ruvin,DEM,108927306.0,69079.0,0
+32467,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,WriteinVotes, ,0.0,900.0,0
+32468,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,OverVotes, ,0.0,901.0,0
+32469,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Clerk of the Circuit Court, ,320000.0,UnderVotes, ,0.0,902.0,0
+32470,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,Yes,NOP,113445454.0,10.0,0
+32471,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,No,NOP,113445454.0,20.0,0
+32472,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,OverVotes, ,0.0,901.0,0
+32473,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,UnderVotes, ,0.0,902.0,0
+32474,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,Yes,NOP,112170657.0,10.0,0
+32475,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,No,NOP,112170657.0,20.0,0
+32476,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,OverVotes, ,0.0,901.0,0
+32477,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,UnderVotes, ,0.0,902.0,0
+32478,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,Yes,NOP,105012057.0,10.0,0
+32479,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,No,NOP,105012057.0,20.0,0
+32480,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,OverVotes, ,0.0,901.0,0
+32481,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,UnderVotes, ,0.0,902.0,0
+32482,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,Yes,NOP,113920061.0,10.0,0
+32483,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,No,NOP,113920061.0,20.0,0
+32484,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,OverVotes, ,0.0,901.0,0
+32485,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,UnderVotes, ,0.0,902.0,0
+32486,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,Yes,NOP,108951508.0,10.0,0
+32487,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,No,NOP,108951508.0,20.0,0
+32488,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,OverVotes, ,0.0,901.0,0
+32489,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,UnderVotes, ,0.0,902.0,0
+32490,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Mark Blumstein,NOP,109292291.0,65231.0,0
+32491,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Luis Perez-Medina,NOP,109018529.0,64933.0,0
+32492,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,OverVotes, ,0.0,901.0,0
+32493,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,UnderVotes, ,0.0,902.0,0
+32494,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,"Carol ""Jodie"" Breece",NOP,109866289.0,64542.0,0
+32495,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,Oscar Rodriguez-Fonts,NOP,109317554.0,64524.0,0
+32496,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,OverVotes, ,0.0,901.0,0
+32497,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,UnderVotes, ,0.0,902.0,0
+32498,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,Carlos Gimenez,NOP,109141355.0,69071.0,0
+32499,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,Raquel Regalado,NOP,110015425.0,69074.0,0
+32500,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,OverVotes, ,0.0,901.0,0
+32501,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,0,Mayor, ,702000.0,UnderVotes, ,0.0,902.0,0
+32502,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,Yes for Approval,NOP,0.0,10.0,0
+32503,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,No for Rejection,NOP,0.0,20.0,0
+32504,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,OverVotes, ,0.0,901.0,0
+32505,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,UnderVotes, ,0.0,902.0,0
+32506,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,Yes for Approval,NOP,0.0,10.0,0
+32507,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,No for Rejection,NOP,0.0,20.0,0
+32508,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,OverVotes, ,0.0,901.0,0
+32509,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,UnderVotes, ,0.0,902.0,0
+32510,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,Yes for Approval,NOP,0.0,10.0,0
+32511,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,No for Rejection,NOP,0.0,20.0,0
+32512,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,OverVotes, ,0.0,901.0,0
+32513,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,UnderVotes, ,0.0,902.0,0
+32514,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,Yes for Approval,NOP,0.0,10.0,0
+32515,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,No for Rejection,NOP,0.0,20.0,0
+32516,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,OverVotes, ,0.0,901.0,0
+32517,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,463,PCT 367/453/463 0231,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,UnderVotes, ,0.0,902.0,0
+46385,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Trump / Pence,REP,0.0,65072.0,0
+46386,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Clinton / Kaine,DEM,0.0,65058.0,0
+46387,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Johnson / Weld,LPF,0.0,69370.0,0
+46388,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Castle / Bradley,CPF,0.0,69385.0,0
+46389,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Stein / Baraka,GRE,0.0,69377.0,0
+46390,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,De La Fuente / Steinberg,REF,0.0,69403.0,0
+46391,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,WriteinVotes, ,0.0,900.0,0
+46392,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,OverVotes, ,0.0,901.0,0
+46393,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,UnderVotes, ,0.0,902.0,0
+46394,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Marco Rubio,REP,109340956.0,65070.0,0
+46395,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Patrick Murphy,DEM,110225855.0,65041.0,0
+46396,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Paul Stanton,LPF,122945407.0,66374.0,0
+46397,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Tony Khoury,NPA,109645332.0,65297.0,0
+46398,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Bruce Nathan,NPA,105899561.0,64800.0,0
+46399,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Steven Machat,NPA,118948766.0,64869.0,0
+46400,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Basil E. Dalack,NPA,112148742.0,65789.0,0
+46401,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,WriteinVotes, ,0.0,900.0,0
+46402,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,OverVotes, ,0.0,901.0,0
+46403,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,UnderVotes, ,0.0,902.0,0
+46408,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,Jonathan H. Parker,REP,109247554.0,66261.0,0
+46409,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,David Richardson,DEM,109977476.0,64795.0,0
+46410,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,OverVotes, ,0.0,901.0,0
+46411,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,UnderVotes, ,0.0,902.0,0
+46412,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,Harvey Ruvin,DEM,108927306.0,69079.0,0
+46413,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,WriteinVotes, ,0.0,900.0,0
+46414,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,OverVotes, ,0.0,901.0,0
+46415,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,UnderVotes, ,0.0,902.0,0
+46416,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,Yes,NOP,113445454.0,10.0,0
+46417,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,No,NOP,113445454.0,20.0,0
+46418,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,OverVotes, ,0.0,901.0,0
+46419,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,UnderVotes, ,0.0,902.0,0
+46420,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,Yes,NOP,112170657.0,10.0,0
+46421,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,No,NOP,112170657.0,20.0,0
+46422,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,OverVotes, ,0.0,901.0,0
+46423,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,UnderVotes, ,0.0,902.0,0
+46424,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,Yes,NOP,105012057.0,10.0,0
+46425,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,No,NOP,105012057.0,20.0,0
+46426,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,OverVotes, ,0.0,901.0,0
+46427,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,UnderVotes, ,0.0,902.0,0
+46428,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,Yes,NOP,113920061.0,10.0,0
+46429,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,No,NOP,113920061.0,20.0,0
+46430,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,OverVotes, ,0.0,901.0,0
+46431,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,UnderVotes, ,0.0,902.0,0
+46432,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,Yes,NOP,108951508.0,10.0,0
+46433,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,No,NOP,108951508.0,20.0,0
+46434,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,OverVotes, ,0.0,901.0,0
+46435,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,UnderVotes, ,0.0,902.0,0
+46436,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Mark Blumstein,NOP,109292291.0,65231.0,0
+46437,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Luis Perez-Medina,NOP,109018529.0,64933.0,0
+46438,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,OverVotes, ,0.0,901.0,0
+46439,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,UnderVotes, ,0.0,902.0,0
+46440,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,"Carol ""Jodie"" Breece",NOP,109866289.0,64542.0,0
+46441,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,Oscar Rodriguez-Fonts,NOP,109317554.0,64524.0,0
+46442,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,OverVotes, ,0.0,901.0,0
+46443,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,UnderVotes, ,0.0,902.0,0
+46444,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,Carlos Gimenez,NOP,109141355.0,69071.0,0
+46445,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,Raquel Regalado,NOP,110015425.0,69074.0,0
+46446,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,OverVotes, ,0.0,901.0,0
+46447,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,UnderVotes, ,0.0,902.0,0
+46448,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,Yes for Approval,NOP,0.0,10.0,0
+46449,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,No for Rejection,NOP,0.0,20.0,0
+46450,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,OverVotes, ,0.0,901.0,0
+46451,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,UnderVotes, ,0.0,902.0,0
+46452,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,Yes for Approval,NOP,0.0,10.0,0
+46453,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,No for Rejection,NOP,0.0,20.0,0
+46454,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,OverVotes, ,0.0,901.0,0
+46455,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,UnderVotes, ,0.0,902.0,0
+46456,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,Yes for Approval,NOP,0.0,10.0,0
+46457,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,No for Rejection,NOP,0.0,20.0,0
+46458,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,OverVotes, ,0.0,901.0,0
+46459,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,UnderVotes, ,0.0,902.0,0
+46460,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,Yes for Approval,NOP,0.0,10.0,0
+46461,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,No for Rejection,NOP,0.0,20.0,0
+46462,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,OverVotes, ,0.0,901.0,0
+46463,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,UnderVotes, ,0.0,902.0,0
+46464,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Trump / Pence,REP,0.0,65072.0,0
+46465,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Clinton / Kaine,DEM,0.0,65058.0,0
+46466,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Johnson / Weld,LPF,0.0,69370.0,0
+46467,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Castle / Bradley,CPF,0.0,69385.0,0
+46468,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,Stein / Baraka,GRE,0.0,69377.0,0
+46469,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,De La Fuente / Steinberg,REF,0.0,69403.0,0
+46470,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,WriteinVotes, ,0.0,900.0,0
+46471,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,OverVotes, ,0.0,901.0,0
+46472,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,President of the United States, ,100000.0,UnderVotes, ,0.0,902.0,0
+46473,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Marco Rubio,REP,109340956.0,65070.0,0
+46474,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Patrick Murphy,DEM,110225855.0,65041.0,0
+46475,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Paul Stanton,LPF,122945407.0,66374.0,0
+46476,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Tony Khoury,NPA,109645332.0,65297.0,0
+46477,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Bruce Nathan,NPA,105899561.0,64800.0,0
+46478,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Steven Machat,NPA,118948766.0,64869.0,0
+46479,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,Basil E. Dalack,NPA,112148742.0,65789.0,0
+46480,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,WriteinVotes, ,0.0,900.0,0
+46481,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,OverVotes, ,0.0,901.0,0
+46482,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1307458,United States Senator, ,120000.0,UnderVotes, ,0.0,902.0,0
+46488,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,Jonathan H. Parker,REP,109247554.0,66261.0,0
+46489,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,David Richardson,DEM,109977476.0,64795.0,0
+46490,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,OverVotes, ,0.0,901.0,0
+46491,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,67586,State Representative, District 113,261130.0,UnderVotes, ,0.0,902.0,0
+46492,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,Harvey Ruvin,DEM,108927306.0,69079.0,0
+46493,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,WriteinVotes, ,0.0,900.0,0
+46494,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,OverVotes, ,0.0,901.0,0
+46495,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Clerk of the Circuit Court, ,320000.0,UnderVotes, ,0.0,902.0,0
+46496,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,Yes,NOP,113445454.0,10.0,0
+46497,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,No,NOP,113445454.0,20.0,0
+46498,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,OverVotes, ,0.0,901.0,0
+46499,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Charles T. Canady,Justice of the Supreme Court,500100.0,UnderVotes, ,0.0,902.0,0
+46500,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,Yes,NOP,112170657.0,10.0,0
+46501,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,No,NOP,112170657.0,20.0,0
+46502,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,OverVotes, ,0.0,901.0,0
+46503,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Jorge Labarga,Justice of the Supreme Court,500200.0,UnderVotes, ,0.0,902.0,0
+46504,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,Yes,NOP,105012057.0,10.0,0
+46505,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,No,NOP,105012057.0,20.0,0
+46506,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,OverVotes, ,0.0,901.0,0
+46507,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Ricky L. Polston,Justice of the Supreme Court,500300.0,UnderVotes, ,0.0,902.0,0
+46508,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,Yes,NOP,113920061.0,10.0,0
+46509,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,No,NOP,113920061.0,20.0,0
+46510,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,OverVotes, ,0.0,901.0,0
+46511,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Edwin A. Scales,Third District Court of Appeal,520301.0,UnderVotes, ,0.0,902.0,0
+46512,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,Yes,NOP,108951508.0,10.0,0
+46513,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,No,NOP,108951508.0,20.0,0
+46514,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,OverVotes, ,0.0,901.0,0
+46515,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Retention of Linda Ann Wells,Third District Court of Appeal,520302.0,UnderVotes, ,0.0,902.0,0
+46516,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Mark Blumstein,NOP,109292291.0,65231.0,0
+46517,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,Luis Perez-Medina,NOP,109018529.0,64933.0,0
+46518,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,OverVotes, ,0.0,901.0,0
+46519,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 34",551134.0,UnderVotes, ,0.0,902.0,0
+46520,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,"Carol ""Jodie"" Breece",NOP,109866289.0,64542.0,0
+46521,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,Oscar Rodriguez-Fonts,NOP,109317554.0,64524.0,0
+46522,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,OverVotes, ,0.0,901.0,0
+46523,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Circuit Judge," 11th Judicial Circuit, Group 52",551152.0,UnderVotes, ,0.0,902.0,0
+46524,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,Carlos Gimenez,NOP,109141355.0,69071.0,0
+46525,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,Raquel Regalado,NOP,110015425.0,69074.0,0
+46526,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,OverVotes, ,0.0,901.0,0
+46527,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,0,Mayor, ,702000.0,UnderVotes, ,0.0,902.0,0
+46528,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,Yes for Approval,NOP,0.0,10.0,0
+46529,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,No for Rejection,NOP,0.0,20.0,0
+46530,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,OverVotes, ,0.0,901.0,0
+46531,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 1: Rights of Electricity Consumers Regarding Solar Energy Choice, ,900100.0,UnderVotes, ,0.0,902.0,0
+46532,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,Yes for Approval,NOP,0.0,10.0,0
+46533,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,No for Rejection,NOP,0.0,20.0,0
+46534,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,OverVotes, ,0.0,901.0,0
+46535,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 2: Use of Marijuana for Debilitating Medical Conditions, ,900200.0,UnderVotes, ,0.0,902.0,0
+46536,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,Yes for Approval,NOP,0.0,10.0,0
+46537,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,No for Rejection,NOP,0.0,20.0,0
+46538,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,OverVotes, ,0.0,901.0,0
+46539,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,Amendment No. 3: Tax Exemption for Totally and Permanently Disabled First Responders, ,900300.0,UnderVotes, ,0.0,902.0,0
+46540,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,Yes for Approval,NOP,0.0,10.0,0
+46541,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,No for Rejection,NOP,0.0,20.0,0
+46542,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,OverVotes, ,0.0,901.0,0
+46543,DAD,Miami-Dade,10282,11/08/2016,2016 General Election,658,PCT 544/658/659/982/ 0349,0,0,0,1379230,"Amendment No. 5: Homestead Tax exemption for Certain Senior, Low-income, Long-term Residents; Determination of Just Value"," Low-income, Long-term Residents; Determination of Just Value",900500.0,UnderVotes, ,0.0,902.0,0
