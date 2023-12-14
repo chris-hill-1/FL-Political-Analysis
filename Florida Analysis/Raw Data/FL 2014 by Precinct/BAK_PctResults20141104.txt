@@ -1,0 +1,648 @@
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	954
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	85
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	167
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	11
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	121
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	722
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	528
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	49
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	6
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	27
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	830
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	442
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	20
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	46
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	817
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	450
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	70
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	794
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	467
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	75
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	992
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	41
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	305
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	373
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	950
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	15
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	625
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	533
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	179
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	594
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	552
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	192
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	585
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	558
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	195
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	577
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	568
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	193
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	598
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	546
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	194
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	583
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	668
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	87
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	751
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	463
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	124
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	595
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	679
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	64
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	578
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	627
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	1A	Sanderson Community Center	2252	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	132
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	1323
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	60
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	158
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	6
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	115
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1087
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	449
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	62
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	13
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	9
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	37
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1184
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	386
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	33
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	59
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1203
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	370
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	89
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1170
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	391
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	99
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	1333
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	37
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	292
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	681
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	955
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	26
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	793
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	597
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	272
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	765
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	613
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	283
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	770
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	611
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	280
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	750
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	623
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	289
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	780
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	598
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	283
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	733
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	798
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	131
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	1002
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	574
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	86
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	725
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	908
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	29
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	714
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	824
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	2A	Macclenny Baptist Gym	2705	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	124
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	1506
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	61
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	139
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	11
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	87
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1271
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	401
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	69
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	9
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	10
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	34
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1426
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	284
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	42
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	52
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1406
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	293
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	105
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1385
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	307
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	112
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	1526
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	29
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	249
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	738
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	1041
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	25
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	886
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	660
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	257
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	846
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	676
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	282
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	877
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	647
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	3
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	277
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	861
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	661
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	281
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	879
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	652
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	273
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	852
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	823
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	128
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	1083
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	616
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	105
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	746
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	1030
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	28
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	790
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	887
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	3A	Center of the Agriculture	3018	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	127
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	99
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	3
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	10
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	83
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	30
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	4
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	97
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	18
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	95
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	19
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	93
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	20
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	100
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	3
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	18
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	39
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	80
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	50
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	55
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	16
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	47
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	57
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	17
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	48
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	57
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	16
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	49
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	55
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	17
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	49
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	56
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	16
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	61
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	53
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	7
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	70
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	43
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	62
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	57
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	47
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	64
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4A	Baxter Fire Station	195	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	10
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	301
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	17
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	23
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	255
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	69
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	15
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	276
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	59
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	286
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	54
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	277
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	55
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	17
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	290
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	10
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	51
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	132
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	215
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	4
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	166
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	141
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	44
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	156
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	149
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	46
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	160
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	146
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	45
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	160
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	146
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	45
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	155
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	148
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	48
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	142
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	189
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	20
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	204
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	122
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	25
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	165
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	181
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	5
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	127
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	202
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4B	Taylor Voting House	581	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	22
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	919
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	22
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	48
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	4
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	40
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	804
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	176
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	30
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	14
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	884
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	111
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	13
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	25
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	878
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	117
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	38
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	868
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	109
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	56
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	877
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	11
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	145
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	449
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	571
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	13
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	431
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	417
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	3
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	182
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	419
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	427
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	186
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	436
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	409
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	188
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	441
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	400
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	192
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	434
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	415
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	184
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	419
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	533
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	81
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	535
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	433
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	65
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	349
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	668
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	15
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	440
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	508
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4C	Center of the Agriculture	1542	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	85
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	476
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	19
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	37
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	22
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	427
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	101
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	14
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	9
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	447
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	81
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	12
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	444
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	79
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	33
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	440
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	82
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	34
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	473
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	3
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	80
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	240
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	311
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	5
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	264
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	229
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	63
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	254
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	237
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	64
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	258
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	230
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	68
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	258
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	233
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	65
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	261
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	226
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	69
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	282
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	243
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	31
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	308
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	223
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	25
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	231
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	315
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	2
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	8
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	231
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	285
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	4D	Cuyler Church Hall	896	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	40
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	1406
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	48
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	90
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	7
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	62
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1231
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	287
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	52
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	18
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	18
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1301
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	232
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	30
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	50
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1287
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	247
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	79
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1270
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	255
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	85
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	1353
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	22
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	238
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	613
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	979
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	21
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	736
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	603
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	274
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	725
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	604
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	284
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	718
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	614
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	281
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	716
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	611
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	286
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	739
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	587
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	287
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	733
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	765
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	115
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	894
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	616
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	102
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	650
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	940
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	23
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	684
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	795
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	5A	Glen Baptist Hall	2523	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	134
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	U.S. Representative	 District 4	140040	Ander Crenshaw	REP	103678407	60273	99
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	U.S. Representative	 District 4	140040	Gary L. Koniz	NPA	103337343	60239	8
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	U.S. Representative	 District 4	140040	Paula Moser-Bartlett	NPA	103690099	61646	23
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	U.S. Representative	 District 4	140040	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	U.S. Representative	 District 4	140040	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	U.S. Representative	 District 4	140040	UnderVotes	 	0	902	11
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	76
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	59
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	4
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	84
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	55
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	2
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	88
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	46
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	77
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	55
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	State Representative	 District 10	260100	Elizabeth Whiddon Porter	REP	103184276	60287	107
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	State Representative	 District 10	260100	WriteinVotes	 	0	900	5
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	State Representative	 District 10	260100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	State Representative	 District 10	260100	UnderVotes	 	0	902	29
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Clerk of the Circuit Court	 	320000	Robert C. Brannan III	REP	100590667	63572	57
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Clerk of the Circuit Court	 	320000	Stacie D Harvey	DEM	100597578	62299	79
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Clerk of the Circuit Court	 	320000	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Clerk of the Circuit Court	 	320000	UnderVotes	 	0	902	5
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	73
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	50
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	66
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	56
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	19
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	69
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	53
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	70
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	51
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	20
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	70
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	51
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	20
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	School Board	 District 4	610004	John Joseph Anderson	NOP	100596934	62315	53
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	School Board	 District 4	610004	Charlie "Artie" Burnett III	NOP	100593756	62316	73
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	15
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	78
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	56
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	7
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	64
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	74
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	62
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	70
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+BAK	Baker	10218	11/04/2014	2014 General Election	6A	Olustee Baptist Hall	236	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	9

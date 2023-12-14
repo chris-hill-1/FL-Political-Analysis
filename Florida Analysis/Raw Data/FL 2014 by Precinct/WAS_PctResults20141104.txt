@@ -1,0 +1,1120 @@
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	71
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	122
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	7
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	71
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	116
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	3
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	70
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	119
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	7
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	76
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	117
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	3
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	70
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	123
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	84
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	101
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	16
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	59
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	49
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	87
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	67
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	127
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	2
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	95
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	89
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	95
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	87
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	19
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	91
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	89
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	88
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	95
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	18
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	101
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	82
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	18
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	107
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	90
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	118
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	78
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	65
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	124
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	1	CARYVILLE TOWN HALL	379	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	12
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	418
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	84
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	421
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	68
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	17
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	408
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	83
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	15
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	429
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	66
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	22
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	418
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	71
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	26
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	417
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	79
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	261
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	125
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	123
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	319
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	178
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	213
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	253
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	51
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	197
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	264
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	56
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	199
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	263
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	55
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	197
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	266
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	54
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	217
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	247
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	53
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	207
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	286
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	24
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	208
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	300
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	205
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	279
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	2	FIVE POINT COMMUNITY CENTER	893	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	33
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	239
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	73
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	235
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	63
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	10
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	232
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	69
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	9
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	253
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	59
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	253
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	58
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	249
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	60
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	167
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	57
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	90
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	211
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	100
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	147
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	149
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	151
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	141
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	25
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	143
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	146
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	28
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	142
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	148
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	147
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	147
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	23
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	161
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	150
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	141
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	173
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	124
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	180
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	3	HINSON CROSSROADS FIRE STATION	528	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	1177
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	446
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	11
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	1165
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	393
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	41
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	6
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	20
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	5
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	25
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	1177
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	383
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	47
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	47
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	1272
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	336
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	47
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	1262
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	340
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	5
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	48
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	1286
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	288
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	81
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	790
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	588
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	254
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	908
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	718
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	3
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	26
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	801
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	669
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	185
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	780
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	684
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	191
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	776
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	686
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	192
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	758
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	693
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	203
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	797
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	669
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	2
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	187
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	755
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	805
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	94
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	631
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	960
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	64
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	617
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	916
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	4	AGRICULTURE CENTER - CHIPLEY	2926	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	122
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	496
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	237
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	502
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	184
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	34
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	14
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	3
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	507
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	193
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	31
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	19
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	546
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	181
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	23
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	542
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	180
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	26
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	547
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	177
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	26
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	297
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	151
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	292
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	417
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	310
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	23
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	364
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	308
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	76
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	355
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	315
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	80
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	367
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	299
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	83
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	354
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	315
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	81
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	375
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	298
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	77
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	365
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	354
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	31
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	361
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	378
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	11
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	292
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	410
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	5	VERNON CITY HALL	1326	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	48
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	151
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	206
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	154
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	191
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	167
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	178
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	9
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	176
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	171
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	163
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	182
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	19
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	174
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	151
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	39
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	88
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	54
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	213
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	136
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	213
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	15
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	211
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	117
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	36
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	211
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	113
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	40
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	205
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	117
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	42
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	203
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	119
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	42
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	210
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	115
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	39
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	200
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	142
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	22
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	202
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	149
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	125
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	207
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	6	NEW HOPE	546	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	32
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	524
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	158
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	523
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	134
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	22
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	10
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	541
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	127
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	20
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	566
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	113
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	544
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	133
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	22
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	548
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	131
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	375
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	209
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	106
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	423
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	265
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	324
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	310
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	64
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	311
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	319
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	69
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	323
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	305
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	71
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	324
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	304
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	70
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	326
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	307
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	66
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	312
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	361
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	26
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	274
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	411
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	256
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	407
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	7	ORANGE HILL FIRE STATION	1078	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	36
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	540
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	280
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	7
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	12
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	539
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	259
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	12
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	3
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	12
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	529
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	274
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	18
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	18
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	571
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	244
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	24
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	556
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	261
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	597
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	201
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	41
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	391
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	308
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	122
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	406
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	417
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	15
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	402
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	362
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	75
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	402
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	360
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	77
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	389
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	363
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	86
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	383
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	372
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	83
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	408
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	357
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	74
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	422
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	386
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	31
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	367
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	455
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	335
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	465
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	8	ARMORY - CHIPLEY	1494	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	39
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	271
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	107
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	283
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	75
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	14
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	11
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	267
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	96
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	18
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	302
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	78
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	294
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	78
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	295
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	70
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	22
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	195
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	116
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	65
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	227
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	148
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	12
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	197
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	162
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	28
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	192
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	163
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	32
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	190
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	164
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	33
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	190
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	164
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	33
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	198
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	158
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	31
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	189
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	186
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	12
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	165
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	215
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	154
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	214
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	9	WAUSAU TOWN HALL	690	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	19
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	366
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	98
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	356
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	96
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	357
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	89
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	13
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	371
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	79
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	14
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	356
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	93
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	367
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	80
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	201
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	171
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	86
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	226
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	229
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	223
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	210
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	31
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	211
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	217
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	35
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	215
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	210
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	39
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	215
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	213
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	36
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	215
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	213
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	36
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	214
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	237
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	161
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	296
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	175
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	262
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	10	COURTS OF PRAISE CHURCH	694	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	27
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	73
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	143
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	83
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	115
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	8
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	7
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	74
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	125
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	13
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	98
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	112
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	87
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	119
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	106
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	88
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	25
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	51
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	40
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	119
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	97
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	111
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	11
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	133
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	66
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	135
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	62
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	22
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	124
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	70
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	25
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	124
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	72
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	23
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	130
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	68
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	120
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	80
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	19
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	125
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	81
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	95
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	103
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	11	EBRO CITY HALL	382	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	614
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	134
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	12
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	613
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	99
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	40
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	13
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	584
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	109
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	72
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	644
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	108
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	633
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	117
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	6
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	604
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	149
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	16
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	438
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	149
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	164
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	594
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	155
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	422
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	284
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	63
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	399
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	302
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	68
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	415
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	286
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	68
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	410
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	291
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	68
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	399
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	303
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	67
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	381
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	379
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	422
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	344
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	333
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	418
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	12	GREENHEAD	1381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	18
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	339
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	140
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	3
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	349
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	104
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	29
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	337
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	111
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	39
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	378
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	98
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	15
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	365
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	109
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	15
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	327
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	145
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	19
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	268
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	125
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	81
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	346
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	128
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	17
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	291
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	156
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	44
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	282
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	164
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	45
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	271
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	165
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	55
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	287
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	150
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	54
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	283
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	161
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	47
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	294
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	187
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	262
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	215
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	209
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	257
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	13	SUNNY HILLS COMMUNITY CENTER	888	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	25
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	204
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	72
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	201
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	57
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	15
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	2
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	193
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	62
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	21
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	229
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	52
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	4
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	217
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	60
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	197
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	81
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	139
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	58
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	79
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	197
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	78
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	149
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	108
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	28
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	140
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	116
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	29
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	151
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	104
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	30
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	138
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	114
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	32
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	147
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	109
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	29
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	142
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	134
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	145
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	135
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	103
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	174
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	14	SHEPHERDS GATE CHURCH	539	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	121
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	29
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	114
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	25
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	2
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	122
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	22
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	4
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	2
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	126
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	21
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	126
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	19
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	120
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	25
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	5
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	59
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	63
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	26
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	80
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	69
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	1
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	67
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	75
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	56
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	86
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	63
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	77
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	59
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	81
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	64
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	77
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	9
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	49
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	91
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	10
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	40
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	104
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	50
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	88
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	15	RECYCLING CENTER	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	12
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	176
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	75
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	6
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	7
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	179
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	50
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	25
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	8
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	164
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	57
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	37
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	197
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	61
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	6
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	184
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	67
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	11
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	State Representative	 District 5	260050	Brad Drake	REP	108863917	54996	176
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	State Representative	 District 5	260050	Karen Schoen	LPF	102247388	60505	80
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	State Representative	 District 5	260050	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	State Representative	 District 5	260050	UnderVotes	 	0	902	8
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Clerk of the Circuit Court	 	320000	Lora C. Bell	REP	108885509	63685	134
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Clerk of the Circuit Court	 	320000	Steve Whittington	NPA	108886140	63678	78
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Clerk of the Circuit Court	 	320000	Melissa Brock Whitson	NPA	113527927	63593	45
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	County Commissioner	 District 2	380020	Charles Kent	REP	108896345	63712	157
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	County Commissioner	 District 2	380020	Leigh Cope	DEM	108887354	63703	96
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	11
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	132
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	116
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	16
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	127
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	119
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	18
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	123
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	121
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	123
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	120
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	21
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	129
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	115
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	20
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	135
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	126
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	160
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	101
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	89
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	166
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+WAS	Washington	10218	11/04/2014	2014 General Election	16	COUNTRY OAKS BAPTIST CHURCH	495	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	9

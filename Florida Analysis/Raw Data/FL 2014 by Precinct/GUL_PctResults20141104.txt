@@ -1,0 +1,535 @@
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	593
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	237
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	585
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	202
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	33
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	6
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	10
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	605
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	187
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	32
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	27
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	618
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	204
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	29
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	600
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	204
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	41
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	401
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	376
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	74
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	385
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	381
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	85
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	389
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	378
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	84
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	385
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	377
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	89
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	386
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	383
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	487
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	330
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	34
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	430
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	405
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	16
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	372
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	422
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	1	HONEYVILLE COMMUNITY	1823	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	57
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	550
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	338
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	20
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	560
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	282
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	33
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	20
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	586
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	252
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	39
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	36
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	630
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	246
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	37
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	587
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	272
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	50
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	County Commissioner	 District 2	380020	Tom Semmes	REP	104296070	62997	308
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	County Commissioner	 District 2	380020	Ward McDaniel	DEM	104291387	62990	591
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	390
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	448
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	73
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	378
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	450
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	83
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	370
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	455
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	85
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	376
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	457
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	387
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	443
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	82
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	493
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	370
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	48
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	501
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	381
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	31
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	377
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	481
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	2	FIRST PENTECOSTAL CHURCH	1644	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	55
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	613
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	283
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	7
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	627
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	216
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	41
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	627
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	227
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	43
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	663
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	221
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	21
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	629
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	245
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	30
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	478
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	328
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	100
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	453
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	348
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	105
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	441
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	353
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	112
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	449
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	342
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	115
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	454
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	345
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	107
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	551
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	322
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	33
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	512
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	378
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	16
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	406
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	447
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	3	ST JOE BEACH FIRE STATION	1595	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	53
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	304
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	387
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	297
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	372
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	13
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	8
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	307
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	358
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	15
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	16
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	315
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	365
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	16
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	298
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	372
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	24
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	384
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	248
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	64
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	381
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	239
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	76
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	367
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	250
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	77
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	354
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	259
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	82
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	381
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	244
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	71
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	442
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	221
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	33
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	410
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	268
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	18
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	333
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	315
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	4	PORT ST JOE FIRE STATION	1298	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	48
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	765
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	196
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	750
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	180
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	21
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	11
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	753
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	174
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	31
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	12
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	800
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	150
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	20
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	773
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	172
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	25
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	506
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	385
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	78
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	481
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	404
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	85
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	486
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	393
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	90
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	487
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	388
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	95
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	500
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	383
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	87
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	522
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	418
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	30
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	437
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	518
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	403
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	530
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	5	CENTENNIAL BUILDING	1648	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	36
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	102
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	26
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	95
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	25
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	89
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	33
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	100
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	26
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	96
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	29
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	41
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	78
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	12
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	44
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	77
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	10
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	40
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	80
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	11
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	41
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	76
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	41
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	79
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	11
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	67
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	60
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	53
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	75
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	45
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	82
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	6	WHITE CITY FIRE STATION	241	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	294
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	136
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	310
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	105
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	11
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	306
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	102
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	16
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	9
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	332
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	90
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	11
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	311
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	99
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	21
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	232
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	125
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	76
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	218
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	136
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	79
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	221
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	131
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	81
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	220
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	129
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	84
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	230
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	123
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	80
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	296
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	123
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	14
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	249
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	177
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	7
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	213
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	198
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	7	CAPE SAN BLAS FIRE STATION	655	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	22
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	84
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	38
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	102
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	20
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	86
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	30
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	6
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	88
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	30
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	8
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	91
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	29
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	52
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	56
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	51
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	56
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	19
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	51
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	56
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	19
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	51
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	55
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	20
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	53
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	53
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	20
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	79
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	38
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	9
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	71
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	54
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	57
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	56
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	8	HOWARD CREEK FIRE STATION	234	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	13
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	U.S. Representative	 District 2	140020	Steve Southerland	REP	100624780	61142	151
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	U.S. Representative	 District 2	140020	Gwen Graham	DEM	105044524	61206	43
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	U.S. Representative	 District 2	140020	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	U.S. Representative	 District 2	140020	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	U.S. Representative	 District 2	140020	UnderVotes	 	0	902	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	150
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	30
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	9
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	3
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	147
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	34
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	4
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	155
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	35
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	150
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	36
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	8
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	96
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	81
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	18
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	92
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	85
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	18
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	92
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	85
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	18
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	89
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	87
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	19
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	98
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	81
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	16
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	115
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	75
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	5
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	104
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	89
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	2
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	89
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	99
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+GUL	Gulf	10218	11/04/2014	2014 General Election	9	OVERSTREET FIRE STATION	381	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	7

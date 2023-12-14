@@ -1,0 +1,504 @@
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	707
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	147
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	24
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	24
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	475
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	322
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	57
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	17
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	24
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	619
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	211
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	24
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	48
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	652
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	198
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	52
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	662
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	181
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	58
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	436
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	330
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	136
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	421
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	339
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	142
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	431
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	335
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	135
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	421
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	331
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	150
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	444
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	311
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	146
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	267
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	629
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	School Board	 District 1	610001	Allen Parrish	NOP	10839598	64303	560
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	School Board	 District 1	610001	Steve Peacock	NOP	108390338	64304	318
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	23
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	564
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	283
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	54
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	406
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	470
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	26
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	388
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	435
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	1A & 1B	LBCC - 1A and 1B	1197	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	79
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	583
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	155
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	22
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	21
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	362
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	330
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	53
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	5
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	10
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	18
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	508
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	212
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	24
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	37
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	552
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	192
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	36
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	514
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	208
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	3
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	56
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	388
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	300
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	2
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	91
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	396
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	283
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	102
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	387
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	292
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	102
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	379
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	295
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	106
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	400
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	278
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	103
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	160
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	615
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	County Commissioner	 District 2	380020	Steven Klein	REP	108390167	64299	333
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	County Commissioner	 District 2	380020	Woodrow Kitler	DEM	108397059	64297	441
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	County Commissioner	 District 2	380020	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	County Commissioner	 District 2	380020	UnderVotes	 	0	902	7
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	485
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	246
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	50
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	415
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	345
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	21
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	337
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	372
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	2A & 2B	RAIFORD - 2A and 2B	1057	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	72
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	890
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	177
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	24
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	31
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	666
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	350
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	55
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	10
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	4
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	35
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	827
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	216
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	21
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	58
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	836
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	211
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	75
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	842
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	217
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	62
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	521
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	438
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	162
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	500
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	448
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	174
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	503
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	452
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	167
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	506
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	440
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	176
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	529
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	415
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	177
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	379
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	732
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	645
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	411
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	66
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	572
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	517
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	32
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	454
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	580
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3A & 3B	WORTHINGTON SPRINGS - 3A and 3B	1638	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	88
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	180
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	40
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	3
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	5
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	114
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	95
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	5
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	3
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	5
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	1
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	153
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	60
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	5
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	10
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	168
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	48
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	12
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	166
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	53
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	9
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	91
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	111
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	26
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	94
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	108
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	26
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	91
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	110
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	27
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	94
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	107
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	27
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	99
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	100
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	29
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	77
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	149
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	138
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	75
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	15
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	116
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	107
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	4
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	88
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	119
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	3C	SREC BLDG - 3C	312	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	21
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	365
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	120
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	14
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	6
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	249
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	220
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	20
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	6
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	2
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	5
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	332
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	141
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	10
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	22
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	342
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	141
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	22
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	352
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	134
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	1
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	18
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	246
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	193
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	66
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	236
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	192
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	77
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	241
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	192
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	72
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	238
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	190
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	77
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	255
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	179
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	71
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	153
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	345
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	County Commissioner	 District 4	380040	Jeffrey Andrews	REP	100751581	64301	239
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	County Commissioner	 District 4	380040	Wayne Smith	DEM	108391327	64300	255
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	11
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	332
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	150
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	23
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	292
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	200
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	12
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	234
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	231
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4A & 4C	SREC BLDG - 4A and 4C	682	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	40
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	733
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	196
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	14
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	27
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	562
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	335
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	34
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	4
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	9
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	22
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	690
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	212
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	25
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	42
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	721
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	199
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	49
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	717
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	197
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	55
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	469
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	336
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	164
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	447
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	344
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	178
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	447
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	346
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	176
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	437
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	349
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	183
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	451
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	334
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	184
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	336
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	625
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	County Commissioner	 District 4	380040	Jeffrey Andrews	REP	100751581	64301	428
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	County Commissioner	 District 4	380040	Wayne Smith	DEM	108391327	64300	528
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	County Commissioner	 District 4	380040	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	County Commissioner	 District 4	380040	UnderVotes	 	0	902	13
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	541
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	361
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	67
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	449
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	480
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	40
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	409
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	463
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	4B	PROVIDENCE - 4B	1348	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	97
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	306
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	86
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	6
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	23
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	194
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	184
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	13
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	2
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	4
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	3
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	20
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	251
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	127
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	13
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	30
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	251
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	132
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	38
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	265
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	127
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	2
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	27
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	216
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	137
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	68
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	219
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	132
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	70
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	209
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	141
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	71
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	212
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	136
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	73
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	218
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	129
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	74
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	110
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	305
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	261
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	118
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	42
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	231
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	170
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	20
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	187
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	184
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5A & 5C	LBCC - 5A and 5C	611	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	50
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	U.S. Representative	 District 3	140030	Ted Yoho	REP	100409333	60281	203
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	U.S. Representative	 District 3	140030	Marihelen Wheeler	DEM	100428206	61370	29
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	U.S. Representative	 District 3	140030	Howard Term Limits Lawson	NPA	108074441	61510	3
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	U.S. Representative	 District 3	140030	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	U.S. Representative	 District 3	140030	UnderVotes	 	0	902	3
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	Scott / Lopez-Cantera	REP	103093132	61253	158
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	Crist / Taddeo	DEM	107305453	61166	69
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	Wyllie / Roe	LPF	106930498	60196	6
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	Khavari / Jones	NPA	109756199	61155	1
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	Burkett / Matos	NPA	108852312	63420	1
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	WriteinVotes	 	0	900	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Governor and Lieutenant Governor	 	160000	UnderVotes	 	0	902	3
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Attorney General	 	160200	Pam Bondi	REP	110471335	60487	182
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Attorney General	 	160200	George Sheldon	DEM	105026378	61138	40
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Attorney General	 	160200	Bill Wohlsifer	LPF	111846393	61259	5
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Attorney General	 	160200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Attorney General	 	160200	UnderVotes	 	0	902	11
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Chief Financial Officer	 	160500	Jeff Atwater	REP	112630053	55287	181
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Chief Financial Officer	 	160500	William "Will" Rankin	DEM	114807511	61112	39
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Chief Financial Officer	 	160500	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Chief Financial Officer	 	160500	UnderVotes	 	0	902	18
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Commissioner of Agriculture	 	160800	Adam Putnam	REP	113549963	60369	186
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Commissioner of Agriculture	 	160800	Thaddeus Thad Hamilton	DEM	101335958	60304	38
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Commissioner of Agriculture	 	160800	WriteinVotes	 	0	900	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Commissioner of Agriculture	 	160800	OverVotes	 	0	901	1
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Commissioner of Agriculture	 	160800	UnderVotes	 	0	902	13
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	Yes	NOP	104990393	10	86
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	No	NOP	104990393	20	118
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Robert T. Benton	First District Court of Appeal	520101	UnderVotes	 	0	902	34
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	Yes	NOP	104990520	10	98
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	No	NOP	104990520	20	106
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Joseph Lewis, Jr.	First District Court of Appeal	520102	UnderVotes	 	0	902	34
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	Yes	NOP	103576421	10	93
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	No	NOP	103576421	20	110
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Scott Makar	First District Court of Appeal	520103	UnderVotes	 	0	902	35
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	Yes	NOP	105230478	10	92
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	No	NOP	105230478	20	109
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Tim Osterhaus	First District Court of Appeal	520104	UnderVotes	 	0	902	37
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	Yes	NOP	105003932	10	89
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	No	NOP	105003932	20	111
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Retention of Clay Roberts	First District Court of Appeal	520105	UnderVotes	 	0	902	38
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Sheriff	 	335000	Garry Seay	NPA	108391127	64295	61
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Sheriff	 	335000	Brad Whitehead	NPA	108396830	64290	177
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	Yes for Approval	NOP	0	10	123
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	No for Rejection	NOP	0	20	103
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 1: Water and Land Conservation - Dedicates funds to acquire and restore Florida conservation and recreation lands	 	900100	UnderVotes	 	0	902	12
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	Yes for Approval	NOP	0	10	110
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	No for Rejection	NOP	0	20	121
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 2: Use of Marijuana for Certain Medical Conditions	 	900200	UnderVotes	 	0	902	7
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	Yes for Approval	NOP	0	10	91
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	No for Rejection	NOP	0	20	128
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	OverVotes	 	0	901	0
+UNI	Union	10218	11/04/2014	2014 General Election	5B	PALESTINE - 5B	325	0	0	0	Amendment No. 3: PROSPECTIVE APPOINTMENT OF CERTAIN JUDICIAL VACANCIES	 	900300	UnderVotes	 	0	902	19
